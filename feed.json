@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T21:14:02.863720+00:00",
+  "updated": "2026-10-18T21:27:41.555164+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -10,7 +10,7 @@
       "category": "djeca",
       "severity": "visok",
       "region": "world",
-      "time": "2026-10-18T21:13:14.093106+00:00",
+      "time": "2026-10-18T21:26:48.452559+00:00",
       "url": "hxxps[://]raw[.]githubusercontent[.]com/errinysh/FortniteSpoofer/HEAD/TempSpoofer[.]exe"
     },
     {
@@ -20,7 +20,7 @@
       "category": "banka",
       "severity": "visok",
       "region": "world",
-      "time": "2026-10-18T21:13:14.093106+00:00",
+      "time": "2026-10-18T21:26:48.452559+00:00",
       "url": "hxxp[://]31[.]40[.]204[.]4/24/secured_stub[.]ps1"
     },
     {
@@ -30,7 +30,7 @@
       "category": "kripto",
       "severity": "visok",
       "region": "world",
-      "time": "2026-10-18T21:13:14.093106+00:00",
+      "time": "2026-10-18T21:26:48.452559+00:00",
       "url": "hxxps[://]benzinclick[.]live/pethelper[.]apk"
     },
     {
@@ -40,7 +40,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-18T21:13:14.093106+00:00",
+      "time": "2026-10-18T21:26:48.452559+00:00",
       "url": "hxxps[://]raw[.]githubusercontent[.]com/martinez9388/ai-browser-tutorial/HEAD/upspring/ai_tutorial_browser_v2[.]2-alpha[.]1[.]zip"
     }
   ]
