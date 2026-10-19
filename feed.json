@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T13:45:19.376420+00:00",
+  "updated": "2026-10-19T19:33:09.170909+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -10,28 +10,28 @@
       "category": "djeca",
       "severity": "visok",
       "region": "world",
-      "time": "2026-10-19T13:44:01.579026+00:00",
+      "time": "2026-10-19T19:32:20.401834+00:00",
       "url": "hxxps[://]raw[.]githubusercontent[.]com/errinysh/FortniteSpoofer/HEAD/TempSpoofer[.]exe"
     },
     {
       "id": "world-banka-20261019",
       "title": "Novi phishing za banke i plaćanje",
-      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 278)",
+      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 279)",
       "category": "banka",
       "severity": "visok",
       "region": "world",
-      "time": "2026-10-19T13:44:01.579026+00:00",
+      "time": "2026-10-19T19:32:20.401834+00:00",
       "url": "hxxp[://]31[.]40[.]204[.]4/24/secured_stub[.]ps1"
     },
     {
       "id": "world-kripto-20261019",
       "title": "Lažni kripto alati i novčanici",
-      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 306)",
+      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 307)",
       "category": "kripto",
       "severity": "visok",
       "region": "world",
-      "time": "2026-10-19T13:44:01.579026+00:00",
-      "url": "hxxps[://]benzinclick[.]live/pethelper[.]apk"
+      "time": "2026-10-19T19:32:20.401834+00:00",
+      "url": "hxxp[://]193[.]178[.]158[.]57/bin/054b66d3943934ef_CryptoClipper[.]exe"
     },
     {
       "id": "world-dostava-20261019",
@@ -40,7 +40,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-19T13:44:01.579026+00:00",
+      "time": "2026-10-19T19:32:20.401834+00:00",
       "url": "hxxps[://]raw[.]githubusercontent[.]com/martinez9388/ai-browser-tutorial/HEAD/upspring/ai_tutorial_browser_v2[.]2-alpha[.]1[.]zip"
     }
   ]
