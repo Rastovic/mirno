@@ -42,16 +42,24 @@ MNE_LEGIT = (".posta.co.me", ".ckb.me", ".nlb.me", ".erstebank.me",
              ".hipotekarnabanka.com", ".telekom.me", ".mtel.me", ".gov.me",
              ".euprava.me", ".vercel.app", ".coder.")
 
-# Naslovi/tekst po sferi (ljudski napisano, bez AI)
+# Naslovi/tekst po sferi (ljudski napisano, bez AI). (sr_naslov, sr_tekst, en_naslov, en_tekst)
 TITLES = {
     "djeca": ("Lažni linkovi ciljaju gejmere i djecu",
-              "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće."),
+              "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće.",
+              "Fake links target gamers and kids",
+              "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click."),
     "banka": ("Novi phishing za banke i plaćanje",
-              "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke."),
+              "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke.",
+              "New phishing for banks and payments",
+              "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message."),
     "dostava": ("Lažna obavještenja o paketu i carini",
-                "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka."),
+                "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka.",
+                "Fake parcel and customs notices",
+                "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link."),
     "kripto": ("Lažni kripto alati i novčanici",
-               "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta."),
+               "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta.",
+               "Fake crypto tools and wallets",
+               "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto."),
 }
 
 
@@ -110,11 +118,13 @@ def world_cards(urls):
         exec_hit = next((h for h in hits if h.lower().endswith(EXE)), None)
         example = exec_hit or hits[0]
         sev = "visok" if exec_hit else "srednji"
-        title, body = TITLES[cat]
+        title, body, title_en, body_en = TITLES[cat]
         cards.append({
             "id": f"world-{cat}-{now:%Y%m%d}",
             "title": title,
             "body": body + f" (viđeno danas: {len(hits)})",
+            "title_en": title_en,
+            "body_en": body_en + f" (seen today: {len(hits)})",
             "category": cat,
             "severity": sev,
             "region": "world",
@@ -161,6 +171,8 @@ def mne_cards():
                 "id": f"me-{brand.lower().replace(' ', '')}-{now:%Y%m%d}",
                 "title": f"Moguć lažni domen: {brand}",
                 "body": "Nov domen liči na pravi. Provjeri prije nego uneseš podatke; koristi zvanični sajt/aplikaciju.",
+                "title_en": f"Possible fake domain: {brand}",
+                "body_en": "A new domain looks like the real one. Verify before entering details; use the official site/app.",
                 "category": "banka" if brand not in ("Pošta CG", "gov.me") else "dostava",
                 "severity": "srednji",
                 "region": "ME",
