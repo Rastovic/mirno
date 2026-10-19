@@ -12,12 +12,15 @@ sve URL-ove DEFANG-uje (neklikabilno). Izlaz: feed.json u formatu aplikacije.
 Pokretanje:  python3 -I build_feed.py
 Radi i u GitHub Actions (stdlib only).
 """
-import sys, csv, json, urllib.request, urllib.parse
+import sys, os, csv, json, urllib.request, urllib.parse
 from datetime import datetime, timezone, timedelta
 
 UA = {"User-Agent": "mirno-feed/0.1 (+https://github.com/Rastovic)"}
 URLHAUS = "https://urlhaus.abuse.ch/downloads/csv_recent/"
 OPENPHISH = "https://openphish.com/feed.txt"
+THREATFOX = "https://threatfox-api.abuse.ch/api/v1/"
+# abuse.ch Auth-Key (URLhaus + ThreatFox). TAJNA: iz env/GitHub Secret, NIKAD u kod.
+ABUSE_KEY = os.environ.get("ABUSE_CH_AUTH_KEY", "")
 
 # Sfera -> ključne riječi u URL-u
 THEMES = {
@@ -63,10 +66,33 @@ TITLES = {
 }
 
 
-def get(url, headers=None):
-    req = urllib.request.Request(url, headers={**UA, **(headers or {})})
+def get(url, headers=None, data=None):
+    req = urllib.request.Request(
+        url, data=data, headers={**UA, **(headers or {})})
     with urllib.request.urlopen(req, timeout=30) as r:
         return r.read().decode("utf-8", "replace")
+
+
+def abuse_headers():
+    """Auth-Key za abuse.ch (ako je postavljen)."""
+    return {"Auth-Key": ABUSE_KEY} if ABUSE_KEY else {}
+
+
+def threatfox_urls():
+    """ThreatFox: skorašnji IOC-ovi tipa URL (botnet C&C, malver). Vrati URL-ove."""
+    if not ABUSE_KEY:
+        return []
+    out = []
+    try:
+        body = json.dumps({"query": "get_iocs", "days": 1}).encode()
+        resp = json.loads(get(THREATFOX, headers={
+            **abuse_headers(), "Content-Type": "application/json"}, data=body))
+        for row in resp.get("data", []):
+            if row.get("ioc_type") == "url" and row.get("ioc"):
+                out.append(row["ioc"])
+    except Exception as e:
+        print("ThreatFox greška:", e, file=sys.stderr)
+    return out
 
 
 def defang(u):
@@ -86,7 +112,7 @@ def collect_urls():
     """Vrati listu (url, is_exec) iz URLhaus + OpenPhish."""
     out = []
     try:
-        for ln in get(URLHAUS).splitlines():
+        for ln in get(URLHAUS, headers=abuse_headers()).splitlines():
             if ln.startswith("#") or not ln:
                 continue
             row = next(csv.reader([ln]), None)
@@ -100,6 +126,7 @@ def collect_urls():
                 out.append(ln.strip())
     except Exception as e:
         print("OpenPhish greška:", e, file=sys.stderr)
+    out += threatfox_urls()  # botnet/malver IOC-ovi (ako ima Auth-Key)
     return out
 
 

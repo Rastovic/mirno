@@ -23,6 +23,8 @@ jobs:
         with:
           python-version: "3.12"
       - name: Generiši feed
+        env:
+          ABUSE_CH_AUTH_KEY: ${{ secrets.ABUSE_CH_AUTH_KEY }}
         run: python3 -I build_feed.py
       - name: Commit ako ima promjena
         run: |
