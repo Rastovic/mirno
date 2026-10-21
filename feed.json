@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-21T02:10:33.106555+00:00",
+  "updated": "2026-10-21T07:51:32.533639+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
     {
       "id": "world-djeca-20261021",
       "title": "Lažni linkovi ciljaju gejmere i djecu",
-      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 792)",
+      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 812)",
       "category": "djeca",
       "severity": "visok",
       "region": "world",
-      "time": "2026-10-21T02:09:44.065362+00:00",
-      "url": "hxxps[://]raw[.]githubusercontent[.]com/errinysh/FortniteSpoofer/HEAD/TempSpoofer[.]exe"
+      "time": "2026-10-21T07:50:43.596124+00:00",
+      "url": "hxxps[://]thesnapchatmodapk[.]com/update2[.]exe"
     },
     {
       "id": "world-banka-20261021",
@@ -20,7 +20,7 @@
       "category": "banka",
       "severity": "visok",
       "region": "world",
-      "time": "2026-10-21T02:09:44.065362+00:00",
+      "time": "2026-10-21T07:50:43.596124+00:00",
       "url": "hxxp[://]31[.]40[.]204[.]4/24/secured_stub[.]ps1"
     },
     {
@@ -30,7 +30,7 @@
       "category": "kripto",
       "severity": "visok",
       "region": "world",
-      "time": "2026-10-21T02:09:44.065362+00:00",
+      "time": "2026-10-21T07:50:43.596124+00:00",
       "url": "hxxps[://]gitlab[.]com/geagae-group/ageagaegae/-/raw/main/WALLET1[.]V2/WindowsUpdate[.]exe"
     },
     {
@@ -40,7 +40,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-21T02:09:44.065362+00:00",
+      "time": "2026-10-21T07:50:43.596124+00:00",
       "url": "hxxp[://]16[.]5[.]7[.]221/0upspc"
     }
   ]
