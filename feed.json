@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T18:09:19.182477+00:00",
+  "updated": "2026-10-21T21:52:17.772563+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 3,
   "cards": [
@@ -10,7 +10,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-21T18:08:30.375790+00:00",
+      "time": "2026-10-21T21:51:28.076905+00:00",
       "url": "hxxp[://]tiktokpl[.]shop/"
     },
     {
@@ -20,7 +20,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-21T18:08:30.375790+00:00",
+      "time": "2026-10-21T21:51:28.076905+00:00",
       "url": "hxxps[://]mydpd[.]ookge[.]cc/track-ch"
     },
     {
@@ -30,7 +30,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-21T18:08:30.375790+00:00",
+      "time": "2026-10-21T21:51:28.076905+00:00",
       "url": "hxxps[://]ledger-qfzx5bfadw[.]pages[.]dev/"
     }
   ]
