@@ -1,46 +1,46 @@
 {
-  "updated": "2026-10-20T23:35:14.620778+00:00",
+  "updated": "2026-10-21T02:10:33.106555+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
     {
-      "id": "world-djeca-20261020",
+      "id": "world-djeca-20261021",
       "title": "Lažni linkovi ciljaju gejmere i djecu",
-      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 811)",
+      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 792)",
       "category": "djeca",
       "severity": "visok",
       "region": "world",
-      "time": "2026-10-20T23:30:14.044726+00:00",
+      "time": "2026-10-21T02:09:44.065362+00:00",
       "url": "hxxps[://]raw[.]githubusercontent[.]com/errinysh/FortniteSpoofer/HEAD/TempSpoofer[.]exe"
     },
     {
-      "id": "world-banka-20261020",
+      "id": "world-banka-20261021",
       "title": "Novi phishing za banke i plaćanje",
       "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 277)",
       "category": "banka",
       "severity": "visok",
       "region": "world",
-      "time": "2026-10-20T23:30:14.044726+00:00",
+      "time": "2026-10-21T02:09:44.065362+00:00",
       "url": "hxxp[://]31[.]40[.]204[.]4/24/secured_stub[.]ps1"
     },
     {
-      "id": "world-kripto-20261020",
+      "id": "world-kripto-20261021",
       "title": "Lažni kripto alati i novčanici",
-      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 306)",
+      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 302)",
       "category": "kripto",
       "severity": "visok",
       "region": "world",
-      "time": "2026-10-20T23:30:14.044726+00:00",
+      "time": "2026-10-21T02:09:44.065362+00:00",
       "url": "hxxps[://]gitlab[.]com/geagae-group/ageagaegae/-/raw/main/WALLET1[.]V2/WindowsUpdate[.]exe"
     },
     {
-      "id": "world-dostava-20261020",
+      "id": "world-dostava-20261021",
       "title": "Lažna obavještenja o paketu i carini",
-      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 63)",
+      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 62)",
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-20T23:30:14.044726+00:00",
+      "time": "2026-10-21T02:09:44.065362+00:00",
       "url": "hxxp[://]16[.]5[.]7[.]221/0upspc"
     }
   ]
