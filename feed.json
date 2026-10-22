@@ -1,47 +1,47 @@
 {
-  "updated": "2026-10-22T10:21:23.850397+00:00",
+  "updated": "2026-10-22T15:25:30.428955+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
     {
       "id": "world-djeca-20261022",
       "title": "Lažni linkovi ciljaju gejmere i djecu",
-      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 12)",
+      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 13)",
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-22T10:20:33.545723+00:00",
-      "url": "hxxps[://]www[.]roblox[.]com[.]ml/games/14153443454/Meet-a-neko?privateServerLinkCode=363332383185423811456135371375"
+      "time": "2026-10-22T15:24:41.694777+00:00",
+      "url": "hxxp[://]steamcommuminty[.]cam/tradeoffer/new/path-HG14/nK-951244-29"
     },
     {
       "id": "world-banka-20261022",
       "title": "Novi phishing za banke i plaćanje",
-      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 7)",
+      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 6)",
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-22T10:20:33.545723+00:00",
-      "url": "hxxps[://]www[.]anz-internetbanking[.]blogspot[.]com/"
+      "time": "2026-10-22T15:24:41.694777+00:00",
+      "url": "hxxps[://]dbs-secure[.]vercel[.]app/?entity=31321"
     },
     {
       "id": "world-dostava-20261022",
       "title": "Lažna obavještenja o paketu i carini",
-      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 4)",
+      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 3)",
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-22T10:20:33.545723+00:00",
-      "url": "hxxps[://]mydpd[.]ookge[.]cc/track-ch"
+      "time": "2026-10-22T15:24:41.694777+00:00",
+      "url": "hxxps[://]mydpd[.]audjd[.]cc/track-ch"
     },
     {
       "id": "world-kripto-20261022",
       "title": "Lažni kripto alati i novčanici",
-      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 7)",
+      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 9)",
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-22T10:20:33.545723+00:00",
-      "url": "hxxps[://]trezrwalleth[.]gitbook[.]io/us"
+      "time": "2026-10-22T15:24:41.694777+00:00",
+      "url": "hxxps[://]metamask-docs-75mpj2s96-consensys-ddffed67[.]vercel[.]app/"
     }
   ]
 }
