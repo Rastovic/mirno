@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T15:25:30.428955+00:00",
+  "updated": "2026-10-22T19:20:32.539999+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -10,7 +10,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-22T15:24:41.694777+00:00",
+      "time": "2026-10-22T19:18:12.951272+00:00",
       "url": "hxxp[://]steamcommuminty[.]cam/tradeoffer/new/path-HG14/nK-951244-29"
     },
     {
@@ -20,7 +20,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-22T15:24:41.694777+00:00",
+      "time": "2026-10-22T19:18:12.951272+00:00",
       "url": "hxxps[://]dbs-secure[.]vercel[.]app/?entity=31321"
     },
     {
@@ -30,7 +30,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-22T15:24:41.694777+00:00",
+      "time": "2026-10-22T19:18:12.951272+00:00",
       "url": "hxxps[://]mydpd[.]audjd[.]cc/track-ch"
     },
     {
@@ -40,7 +40,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-22T15:24:41.694777+00:00",
+      "time": "2026-10-22T19:18:12.951272+00:00",
       "url": "hxxps[://]metamask-docs-75mpj2s96-consensys-ddffed67[.]vercel[.]app/"
     }
   ]
