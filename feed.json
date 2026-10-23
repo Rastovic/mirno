@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T01:05:37.672836+00:00",
+  "updated": "2026-10-23T06:08:46.339161+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -10,7 +10,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-23T01:03:14.841039+00:00",
+      "time": "2026-10-23T06:07:14.516450+00:00",
       "url": "hxxps[://]www[.]roblox[.]com[.]et/users/1654175985/profile"
     },
     {
@@ -20,7 +20,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-23T01:03:14.841039+00:00",
+      "time": "2026-10-23T06:07:14.516450+00:00",
       "url": "hxxps[://]gringoxissff899[.]github[.]io/Nubank/"
     },
     {
@@ -30,7 +30,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-23T01:03:14.841039+00:00",
+      "time": "2026-10-23T06:07:14.516450+00:00",
       "url": "hxxps[://]45-77-67-89[.]cpanel[.]site/eu/update[.]php?xz6y09ko5t7dpdfxdv99"
     },
     {
@@ -40,7 +40,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-23T01:03:14.841039+00:00",
+      "time": "2026-10-23T06:07:14.516450+00:00",
       "url": "hxxps[://]ledger-login-support[.]wasmer[.]app/"
     }
   ]
