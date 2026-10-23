@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-23T11:53:17.869082+00:00",
+  "updated": "2026-10-23T16:03:45.233355+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
-  "count": 4,
+  "count": 3,
   "cards": [
     {
       "id": "world-djeca-20261023",
@@ -10,38 +10,28 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-23T11:52:06.766999+00:00",
-      "url": "hxxps[://]www[.]roblox[.]com[.]et/users/1654175985/profile"
+      "time": "2026-10-23T15:58:44.691920+00:00",
+      "url": "hxxp[://]roblox[.]com[.]gr/"
     },
     {
       "id": "world-banka-20261023",
       "title": "Novi phishing za banke i plaćanje",
-      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 2)",
+      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 4)",
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-23T11:52:06.766999+00:00",
-      "url": "hxxps[://]gringoxissff899[.]github[.]io/Nubank/"
-    },
-    {
-      "id": "world-dostava-20261023",
-      "title": "Lažna obavještenja o paketu i carini",
-      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 1)",
-      "category": "dostava",
-      "severity": "srednji",
-      "region": "world",
-      "time": "2026-10-23T11:52:06.766999+00:00",
-      "url": "hxxps[://]45-77-67-89[.]cpanel[.]site/eu/update[.]php?xz6y09ko5t7dpdfxdv99"
+      "time": "2026-10-23T15:58:44.691920+00:00",
+      "url": "hxxps[://]free-5668904[.]webadorsite[.]com/ricardo-support/"
     },
     {
       "id": "world-kripto-20261023",
       "title": "Lažni kripto alati i novčanici",
-      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 9)",
+      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 10)",
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-23T11:52:06.766999+00:00",
-      "url": "hxxps[://]ledger-login-support[.]wasmer[.]app/"
+      "time": "2026-10-23T15:58:44.691920+00:00",
+      "url": "hxxp[://]trust-wallet-login[.]vercel[.]app/staking"
     }
   ]
 }
