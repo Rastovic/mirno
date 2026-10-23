@@ -1,47 +1,47 @@
 {
-  "updated": "2026-10-22T22:33:58.783218+00:00",
+  "updated": "2026-10-23T01:05:37.672836+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
     {
-      "id": "world-djeca-20261022",
+      "id": "world-djeca-20261023",
       "title": "Lažni linkovi ciljaju gejmere i djecu",
-      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 13)",
+      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 15)",
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-22T22:31:00.125257+00:00",
-      "url": "hxxp[://]steamcommuminty[.]cam/tradeoffer/new/path-HG14/nK-951244-29"
+      "time": "2026-10-23T01:03:14.841039+00:00",
+      "url": "hxxps[://]www[.]roblox[.]com[.]et/users/1654175985/profile"
     },
     {
-      "id": "world-banka-20261022",
+      "id": "world-banka-20261023",
       "title": "Novi phishing za banke i plaćanje",
-      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 6)",
+      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 2)",
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-22T22:31:00.125257+00:00",
-      "url": "hxxps[://]dbs-secure[.]vercel[.]app/?entity=31321"
+      "time": "2026-10-23T01:03:14.841039+00:00",
+      "url": "hxxps[://]gringoxissff899[.]github[.]io/Nubank/"
     },
     {
-      "id": "world-dostava-20261022",
+      "id": "world-dostava-20261023",
       "title": "Lažna obavještenja o paketu i carini",
-      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 3)",
+      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 1)",
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-22T22:31:00.125257+00:00",
-      "url": "hxxps[://]mydpd[.]audjd[.]cc/track-ch"
+      "time": "2026-10-23T01:03:14.841039+00:00",
+      "url": "hxxps[://]45-77-67-89[.]cpanel[.]site/eu/update[.]php?xz6y09ko5t7dpdfxdv99"
     },
     {
-      "id": "world-kripto-20261022",
+      "id": "world-kripto-20261023",
       "title": "Lažni kripto alati i novčanici",
       "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 9)",
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-22T22:31:00.125257+00:00",
-      "url": "hxxps[://]metamask-docs-75mpj2s96-consensys-ddffed67[.]vercel[.]app/"
+      "time": "2026-10-23T01:03:14.841039+00:00",
+      "url": "hxxps[://]ledger-login-support[.]wasmer[.]app/"
     }
   ]
 }
