@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T06:03:26.082360+00:00",
+  "updated": "2026-10-24T11:20:07.859929+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -10,7 +10,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-24T06:01:57.442576+00:00",
+      "time": "2026-10-24T11:19:12.473231+00:00",
       "url": "hxxp[://]roblox[.]com[.]et/communities/904439903/JeohanXmisty"
     },
     {
@@ -20,7 +20,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-24T06:01:57.442576+00:00",
+      "time": "2026-10-24T11:19:12.473231+00:00",
       "url": "hxxp[://]03[.]trendndailyinsider[.]com/?cid=cs60m-2134&t1=9719156&t3=b79b66b3-d579-43b0-9bc9-373268802bcb&t5=68b658c805debd001271bcfe&t6=%7Baff_sub6%7D&t7=%7Baff_sub7%7D&t8=TnDUpTo1000paypal&transaction_id=1024ff9cd082248f2585d8d6bcc983&email=%7Bemail%7D&userFname=%7Bfirst_name%7D&last=%7Blast_name%7D&userAddress=%7Baddress%7D&cityName=%7BcityName%7D&stateName=%7Bstate%7D&stateCode=%7Bstate_code%7D&zipcode=%7Bzip%7D&countryName=%7Bcountry%7D&mobile=%7Bphone%7D&dobdate=%7Bdobdate%7D&dobmonth=%7Bdobmonth%7D&dobyear=%7Bdobyear%7D&gender=%7Bgender%7D&isr=true&sessionid=dc8104bf-e4e4-4c47-8135-1ffd02e48a64&uck=d035839e-ec3d-4b1c-8fdb-fd267fbe1cd1&idr=true&prod=1&domain=03[.]trendndailyinsider[.]com&gls=1"
     },
     {
@@ -30,7 +30,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-24T06:01:57.442576+00:00",
+      "time": "2026-10-24T11:19:12.473231+00:00",
       "url": "hxxps[://]mydpd[.]qczlm[.]help/track-ch"
     },
     {
@@ -40,7 +40,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-24T06:01:57.442576+00:00",
+      "time": "2026-10-24T11:19:12.473231+00:00",
       "url": "hxxps[://]sso-eng-netcoins-com-cdn-outh[.]webflow[.]io/"
     }
   ]
