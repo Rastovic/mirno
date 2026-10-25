@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T05:00:16.542502+00:00",
+  "updated": "2026-10-25T09:33:51.534044+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 3,
   "cards": [
@@ -10,7 +10,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-25T04:58:19.509474+00:00",
+      "time": "2026-10-25T09:33:01.798515+00:00",
       "url": "hxxps[://]www[.]roblox[.]ly/users/2112515059/profile"
     },
     {
@@ -20,7 +20,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-25T04:58:19.509474+00:00",
+      "time": "2026-10-25T09:33:01.798515+00:00",
       "url": "hxxps[://]mydpd[.]hrgoa[.]xyz/track-ch"
     },
     {
@@ -30,7 +30,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-25T04:58:19.509474+00:00",
+      "time": "2026-10-25T09:33:01.798515+00:00",
       "url": "hxxp[://]blockbook-btc[.]sspwallet[.]io/"
     }
   ]
