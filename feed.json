@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T19:49:19.435681+00:00",
+  "updated": "2026-10-25T22:08:16.941351+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -10,7 +10,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-25T19:47:24.326937+00:00",
+      "time": "2026-10-25T22:07:24.880521+00:00",
       "url": "hxxp[://]roblox[.]ss/users/1051870473/profile"
     },
     {
@@ -20,7 +20,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-25T19:47:24.326937+00:00",
+      "time": "2026-10-25T22:07:24.880521+00:00",
       "url": "hxxps[://]dashboard-blockchains[.]web[.]app/secured/"
     },
     {
@@ -30,7 +30,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-25T19:47:24.326937+00:00",
+      "time": "2026-10-25T22:07:24.880521+00:00",
       "url": "hxxps[://]mydpd[.]yjbow[.]top/track-ch/"
     },
     {
@@ -40,7 +40,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-25T19:47:24.326937+00:00",
+      "time": "2026-10-25T22:07:24.880521+00:00",
       "url": "hxxps[://]walletsupportlive-vc8n[.]vercel[.]app/"
     }
   ]
