@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T00:31:08.948987+00:00",
+  "updated": "2026-10-26T05:10:17.709304+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -10,7 +10,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-26T00:29:50.418393+00:00",
+      "time": "2026-10-26T05:08:54.850266+00:00",
       "url": "hxxps[://]www[.]roblox[.]rw/games/88738945340571/Would-You-Rather-Countryball-Tower?privateServerLinkCode=11040290185766545005746312904812&game_id=88738945340571&game_name=Would-You-Rather-Countryball-Tower"
     },
     {
@@ -20,7 +20,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-26T00:29:50.418393+00:00",
+      "time": "2026-10-26T05:08:54.850266+00:00",
       "url": "hxxps[://]verfiyconnect24[.]github[.]io/BankOfAmerica/"
     },
     {
@@ -30,7 +30,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-26T00:29:50.418393+00:00",
+      "time": "2026-10-26T05:08:54.850266+00:00",
       "url": "hxxps[://]www[.]dhl[.]smarthub[.]vuelogix[.]ai/"
     },
     {
@@ -40,7 +40,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-26T00:29:50.418393+00:00",
+      "time": "2026-10-26T05:08:54.850266+00:00",
       "url": "hxxp[://]494145-coinbase[.]com/"
     }
   ]
