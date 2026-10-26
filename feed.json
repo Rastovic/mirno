@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T17:30:20.284215+00:00",
+  "updated": "2026-10-26T21:47:35.503860+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -10,7 +10,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-26T17:28:54.814390+00:00",
+      "time": "2026-10-26T21:45:47.995464+00:00",
       "url": "hxxps[://]www[.]roblox[.]ss/users/884221804/profile"
     },
     {
@@ -20,7 +20,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-26T17:28:54.814390+00:00",
+      "time": "2026-10-26T21:45:47.995464+00:00",
       "url": "hxxps[://]auth-secure[.]me/E[.]zU-ELW1FJHtKdfc?/tronox/post/id=dmljdGltdXNlckBjb21wYW55LmNvbQ?#mention"
     },
     {
@@ -30,7 +30,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-26T17:28:54.814390+00:00",
+      "time": "2026-10-26T21:45:47.995464+00:00",
       "url": "hxxps[://]mydpd[.]nnaqo[.]help/track-ch"
     },
     {
@@ -40,7 +40,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-26T17:28:54.814390+00:00",
+      "time": "2026-10-26T21:45:47.995464+00:00",
       "url": "hxxps[://]binance-com-nk[.]refers[.]workers[.]dev/"
     }
   ]
