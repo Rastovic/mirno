@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T16:46:39.998547+00:00",
+  "updated": "2026-10-27T21:02:36.149197+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -10,7 +10,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-27T16:44:45.156875+00:00",
+      "time": "2026-10-27T21:01:46.704355+00:00",
       "url": "hxxps[://]roblox[.]fo/users/587848719/profile"
     },
     {
@@ -20,7 +20,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-27T16:44:45.156875+00:00",
+      "time": "2026-10-27T21:01:46.704355+00:00",
       "url": "hxxp[://]www[.]thebestalimentos[.]com[.]br/rfqhostfile/securefile6410625[.]html"
     },
     {
@@ -30,7 +30,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-27T16:44:45.156875+00:00",
+      "time": "2026-10-27T21:01:46.704355+00:00",
       "url": "hxxp[://]www[.]posta-beige[.]vercel[.]app/"
     },
     {
@@ -40,7 +40,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-27T16:44:45.156875+00:00",
+      "time": "2026-10-27T21:01:46.704355+00:00",
       "url": "hxxp[://]www[.]revokecoinbase[.]vercel[.]app/"
     }
   ]
