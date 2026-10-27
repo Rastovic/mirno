@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-27T11:10:02.846940+00:00",
+  "updated": "2026-10-27T16:46:39.998547+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
     {
       "id": "world-djeca-20261027",
       "title": "Lažni linkovi ciljaju gejmere i djecu",
-      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 21)",
+      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 9)",
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-27T11:08:13.147634+00:00",
-      "url": "hxxps[://]www[.]roblox[.]com[.]et/users/4243002378/profile"
+      "time": "2026-10-27T16:44:45.156875+00:00",
+      "url": "hxxps[://]roblox[.]fo/users/587848719/profile"
     },
     {
       "id": "world-banka-20261027",
@@ -20,28 +20,28 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-27T11:08:13.147634+00:00",
-      "url": "hxxps[://]cardinfort[.]cc/"
+      "time": "2026-10-27T16:44:45.156875+00:00",
+      "url": "hxxp[://]www[.]thebestalimentos[.]com[.]br/rfqhostfile/securefile6410625[.]html"
     },
     {
       "id": "world-dostava-20261027",
       "title": "Lažna obavještenja o paketu i carini",
-      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 8)",
+      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 6)",
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-27T11:08:13.147634+00:00",
-      "url": "hxxps[://]mydpd[.]gxgmo[.]cc/track-ch/#/index"
+      "time": "2026-10-27T16:44:45.156875+00:00",
+      "url": "hxxp[://]www[.]posta-beige[.]vercel[.]app/"
     },
     {
       "id": "world-kripto-20261027",
       "title": "Lažni kripto alati i novčanici",
-      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 8)",
+      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 9)",
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-27T11:08:13.147634+00:00",
-      "url": "hxxps[://]cdzjf6tt2y-creator[.]github[.]io/Ledger"
+      "time": "2026-10-27T16:44:45.156875+00:00",
+      "url": "hxxp[://]www[.]revokecoinbase[.]vercel[.]app/"
     }
   ]
 }
