@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T13:17:17.124480+00:00",
+  "updated": "2026-10-28T19:02:19.595545+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 3,
   "cards": [
@@ -10,7 +10,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-28T13:16:27.591343+00:00",
+      "time": "2026-10-28T18:57:19.126881+00:00",
       "url": "hxxp[://]www[.]roblox[.]ly/users/8231296959/profile/"
     },
     {
@@ -20,7 +20,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-28T13:16:27.591343+00:00",
+      "time": "2026-10-28T18:57:19.126881+00:00",
       "url": "hxxps[://]mydpd[.]kpokm[.]top/track-ch"
     },
     {
@@ -30,7 +30,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-28T13:16:27.591343+00:00",
+      "time": "2026-10-28T18:57:19.126881+00:00",
       "url": "hxxps[://]678coin[.]top/"
     }
   ]
