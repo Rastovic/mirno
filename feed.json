@@ -1,47 +1,47 @@
 {
-  "updated": "2026-10-27T21:02:36.149197+00:00",
+  "updated": "2026-10-28T00:37:39.780082+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
     {
-      "id": "world-djeca-20261027",
+      "id": "world-djeca-20261028",
       "title": "Lažni linkovi ciljaju gejmere i djecu",
-      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 9)",
+      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 10)",
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-27T21:01:46.704355+00:00",
-      "url": "hxxps[://]roblox[.]fo/users/587848719/profile"
+      "time": "2026-10-28T00:35:30.958961+00:00",
+      "url": "hxxp[://]jasapickuptiktok[.]gratisongkir[.]web[.]id/k"
     },
     {
-      "id": "world-banka-20261027",
+      "id": "world-banka-20261028",
       "title": "Novi phishing za banke i plaćanje",
-      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 2)",
+      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 1)",
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-27T21:01:46.704355+00:00",
-      "url": "hxxp[://]www[.]thebestalimentos[.]com[.]br/rfqhostfile/securefile6410625[.]html"
+      "time": "2026-10-28T00:35:30.958961+00:00",
+      "url": "hxxps[://]hellmich-hill-retter-llc-secured-document[.]antonina-korenha[.]workers[.]dev/"
     },
     {
-      "id": "world-dostava-20261027",
+      "id": "world-dostava-20261028",
       "title": "Lažna obavještenja o paketu i carini",
-      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 6)",
+      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 2)",
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-27T21:01:46.704355+00:00",
-      "url": "hxxp[://]www[.]posta-beige[.]vercel[.]app/"
+      "time": "2026-10-28T00:35:30.958961+00:00",
+      "url": "hxxps[://]account-security-notification[.]at-us[.]therelayservice[.]com/matpwp/#/main?type=LiveEmail&locale=en&token=GcRCorP2TGBfKv2HKw6ye5hKk-AeOhN5hv1a5vOAVJAltw8RwAu1LH_C8hfzhdDAr7PNqAb3gq1ZelCsdwLW_K65BmXwJZqKm3rnThroG684Z1Y0lSA2su8EQuoknGhQMRctAGRpTLi3jGt7aHzwv9fI84P7twmWwX_9g0k1ZkQUqLp-wmQX4DWHiUwK-2eu9NxCMnZAr08qeaTgvkGLGL09prt_sWL_OWh414PkKaYoEIVqWprPCXGCJfhkWF_x3mDRhqCvtcovxqrR0qj87M9D5ccJNFia0Pf7dnRpPDPD0zdB1x7U_3I9ZOZ9_CpF6WpGT8c_DWHAyRJf1mWT56C0kV_xsC8Bdvz7XWPuJI18z_CErG_mrqt4lUsssys8uBh5r8Zz4O_qL62uYTFmorsuJLb1Fph5Q3p0rIxGDvWJppoEg97pJpqk0_slipkNERwtjljswqECcl68-jYP2DFVj8iiubIwQA_ncOvj5OW2IJCWPQ76HHVeGBDMo41e0BbPdrAf6a7Zyh-bBGjJgWsx3s3KS-NKLcVkk8jCmprFgfC4OQHQYWxPyDWObV3xWXd03TKwX2LuCFWBL95ATvX6FXOHYvvLAfSDAhuwI-QZIVZvAyn3qq_gnKkvLJuEeSuiV-JLo67YjCx_g7OTVi4RHBLC_sentRtQulZ7CjCLennMi8g6svaWrSaxnO9t2fdjs3zolqUDYoJ_5-Wauwdfzuapy_xM5fqKYd86YeWO8F5wzaR_Wjpu4ScwX9xLiYnNSp3SCKGskGX3ZHRHkLaakd7rb2WlN4-3-noeUCs"
     },
     {
-      "id": "world-kripto-20261027",
+      "id": "world-kripto-20261028",
       "title": "Lažni kripto alati i novčanici",
-      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 9)",
+      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 2)",
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-27T21:01:46.704355+00:00",
-      "url": "hxxp[://]www[.]revokecoinbase[.]vercel[.]app/"
+      "time": "2026-10-28T00:35:30.958961+00:00",
+      "url": "hxxps[://]meta-web-io[.]github[.]io/Portfolio[.]metamask[.]io"
     }
   ]
 }
