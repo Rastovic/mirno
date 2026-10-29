@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T15:20:14.848949+00:00",
+  "updated": "2026-10-29T20:23:27.364049+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -10,7 +10,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-29T15:19:25.832672+00:00",
+      "time": "2026-10-29T20:22:37.813312+00:00",
       "url": "hxxp[://]roblox[.]com[.]et/users/5993575139/profile"
     },
     {
@@ -20,7 +20,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-29T15:19:25.832672+00:00",
+      "time": "2026-10-29T20:22:37.813312+00:00",
       "url": "hxxps[://]ds5-apple[.]xyz/apple-jp-card/jp/login[.]html"
     },
     {
@@ -30,7 +30,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-29T15:19:25.832672+00:00",
+      "time": "2026-10-29T20:22:37.813312+00:00",
       "url": "hxxps[://]mydpd[.]ihkjj[.]top/track-ch/#%252Findex"
     },
     {
@@ -40,7 +40,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-29T15:19:25.832672+00:00",
+      "time": "2026-10-29T20:22:37.813312+00:00",
       "url": "hxxps[://]ledger-liveapp-en[.]pages[.]dev/"
     }
   ]
