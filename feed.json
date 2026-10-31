@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T01:54:46.068046+00:00",
+  "updated": "2026-10-31T07:38:12.408439+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -10,7 +10,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-31T01:53:55.652056+00:00",
+      "time": "2026-10-31T07:36:16.648583+00:00",
       "url": "hxxps[://]s4w[.]in/www-roblox-com-Anime-AdventuresprivateServerLinkCode=4460350768291503441077018644550"
     },
     {
@@ -20,7 +20,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-31T01:53:55.652056+00:00",
+      "time": "2026-10-31T07:36:16.648583+00:00",
       "url": "hxxps[://]secureprofiles2026-indol[.]vercel[.]app/required[.]html"
     },
     {
@@ -30,7 +30,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-31T01:53:55.652056+00:00",
+      "time": "2026-10-31T07:36:16.648583+00:00",
       "url": "hxxps[://]mydpd[.]grrmv[.]cc/track-ch"
     },
     {
@@ -40,7 +40,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-10-31T01:53:55.652056+00:00",
+      "time": "2026-10-31T07:36:16.648583+00:00",
       "url": "hxxps[://]methodical-violet-989593[.]framer[.]app/"
     }
   ]
