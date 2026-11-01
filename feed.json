@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T00:32:20.179448+00:00",
+  "updated": "2026-11-01T06:58:00.485856+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -10,7 +10,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-01T00:30:44.034017+00:00",
+      "time": "2026-11-01T06:56:03.117455+00:00",
       "url": "hxxps[://]www[.]roblox[.]com[.]ss/users/8795648614/profile"
     },
     {
@@ -20,7 +20,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-01T00:30:44.034017+00:00",
+      "time": "2026-11-01T06:56:03.117455+00:00",
       "url": "hxxps[://]update-your-payment[.]com/pages/"
     },
     {
@@ -30,7 +30,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-01T00:30:44.034017+00:00",
+      "time": "2026-11-01T06:56:03.117455+00:00",
       "url": "hxxps[://]mydpd[.]cyobn[.]help/track-ch"
     },
     {
@@ -40,7 +40,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-01T00:30:44.034017+00:00",
+      "time": "2026-11-01T06:56:03.117455+00:00",
       "url": "hxxps[://]smartaitrust[.]com/#/"
     }
   ]
