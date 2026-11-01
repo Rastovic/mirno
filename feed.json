@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T18:39:29.874904+00:00",
+  "updated": "2026-11-01T22:30:20.934979+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 3,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-01T18:38:40.719725+00:00",
+      "time": "2026-11-01T22:29:32.181159+00:00",
       "url": "hxxps[://]s4w[.]in/roblox-com-games-2753915549-Blox-FruitsprivateServerLinkCode=15587938948810815525436529981288"
     },
     {
@@ -24,7 +24,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-01T18:38:40.719725+00:00",
+      "time": "2026-11-01T22:29:32.181159+00:00",
       "url": "hxxps[://]mydpd[.]sloqm[.]xyz/track-ch"
     },
     {
@@ -36,7 +36,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-01T18:38:40.719725+00:00",
+      "time": "2026-11-01T22:29:32.181159+00:00",
       "url": "hxxps[://]phantom-wallet[.]cf911a931df2b26448[.]workers[.]dev/home/import/"
     }
   ]
