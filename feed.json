@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T13:55:49.288217+00:00",
+  "updated": "2026-11-01T18:39:29.874904+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 3,
   "cards": [
@@ -7,30 +7,36 @@
       "id": "world-djeca-20261101",
       "title": "Lažni linkovi ciljaju gejmere i djecu",
       "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 23)",
+      "title_en": "Fake links target gamers and kids",
+      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 23)",
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-01T13:54:40.217730+00:00",
+      "time": "2026-11-01T18:38:40.719725+00:00",
       "url": "hxxps[://]s4w[.]in/roblox-com-games-2753915549-Blox-FruitsprivateServerLinkCode=15587938948810815525436529981288"
     },
     {
       "id": "world-dostava-20261101",
       "title": "Lažna obavještenja o paketu i carini",
       "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 2)",
+      "title_en": "Fake parcel and customs notices",
+      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 2)",
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-01T13:54:40.217730+00:00",
+      "time": "2026-11-01T18:38:40.719725+00:00",
       "url": "hxxps[://]mydpd[.]sloqm[.]xyz/track-ch"
     },
     {
       "id": "world-kripto-20261101",
       "title": "Lažni kripto alati i novčanici",
       "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 3)",
+      "title_en": "Fake crypto tools and wallets",
+      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 3)",
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-01T13:54:40.217730+00:00",
+      "time": "2026-11-01T18:38:40.719725+00:00",
       "url": "hxxps[://]phantom-wallet[.]cf911a931df2b26448[.]workers[.]dev/home/import/"
     }
   ]
