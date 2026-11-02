@@ -1,22 +1,34 @@
 {
-  "updated": "2026-11-01T22:30:20.934979+00:00",
+  "updated": "2026-11-02T01:43:09.566884+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
-  "count": 3,
+  "count": 4,
   "cards": [
     {
-      "id": "world-djeca-20261101",
+      "id": "world-djeca-20261102",
       "title": "Lažni linkovi ciljaju gejmere i djecu",
-      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 23)",
+      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 31)",
       "title_en": "Fake links target gamers and kids",
-      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 23)",
+      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 31)",
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-01T22:29:32.181159+00:00",
-      "url": "hxxps[://]s4w[.]in/roblox-com-games-2753915549-Blox-FruitsprivateServerLinkCode=15587938948810815525436529981288"
+      "time": "2026-11-02T01:42:05.608208+00:00",
+      "url": "hxxps[://]www[.]roblox[.]com[.]ml/users/438014914332/profile"
     },
     {
-      "id": "world-dostava-20261101",
+      "id": "world-banka-20261102",
+      "title": "Novi phishing za banke i plaćanje",
+      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 6)",
+      "title_en": "New phishing for banks and payments",
+      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 6)",
+      "category": "banka",
+      "severity": "srednji",
+      "region": "world",
+      "time": "2026-11-02T01:42:05.608208+00:00",
+      "url": "hxxps[://]perfectgiftchoice[.]life/paypal-gift/"
+    },
+    {
+      "id": "world-dostava-20261102",
       "title": "Lažna obavještenja o paketu i carini",
       "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 2)",
       "title_en": "Fake parcel and customs notices",
@@ -24,20 +36,20 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-01T22:29:32.181159+00:00",
-      "url": "hxxps[://]mydpd[.]sloqm[.]xyz/track-ch"
+      "time": "2026-11-02T01:42:05.608208+00:00",
+      "url": "hxxps[://]mydpd[.]dngqc[.]xyz/track-ch/#/"
     },
     {
-      "id": "world-kripto-20261101",
+      "id": "world-kripto-20261102",
       "title": "Lažni kripto alati i novčanici",
-      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 3)",
+      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 9)",
       "title_en": "Fake crypto tools and wallets",
-      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 3)",
+      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 9)",
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-01T22:29:32.181159+00:00",
-      "url": "hxxps[://]phantom-wallet[.]cf911a931df2b26448[.]workers[.]dev/home/import/"
+      "time": "2026-11-02T01:42:05.608208+00:00",
+      "url": "hxxp[://]connect[.]mytonwallet[.]org/"
     }
   ]
 }
