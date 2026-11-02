@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T01:43:09.566884+00:00",
+  "updated": "2026-11-02T08:31:16.614975+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-02T01:42:05.608208+00:00",
+      "time": "2026-11-02T08:28:56.060270+00:00",
       "url": "hxxps[://]www[.]roblox[.]com[.]ml/users/438014914332/profile"
     },
     {
@@ -24,7 +24,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-02T01:42:05.608208+00:00",
+      "time": "2026-11-02T08:28:56.060270+00:00",
       "url": "hxxps[://]perfectgiftchoice[.]life/paypal-gift/"
     },
     {
@@ -36,7 +36,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-02T01:42:05.608208+00:00",
+      "time": "2026-11-02T08:28:56.060270+00:00",
       "url": "hxxps[://]mydpd[.]dngqc[.]xyz/track-ch/#/"
     },
     {
@@ -48,7 +48,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-02T01:42:05.608208+00:00",
+      "time": "2026-11-02T08:28:56.060270+00:00",
       "url": "hxxp[://]connect[.]mytonwallet[.]org/"
     }
   ]
