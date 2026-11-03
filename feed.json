@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-02T18:43:18.159705+00:00",
+  "updated": "2026-11-03T01:24:29.792992+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
     {
-      "id": "world-djeca-20261102",
+      "id": "world-djeca-20261103",
       "title": "Lažni linkovi ciljaju gejmere i djecu",
       "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 28)",
       "title_en": "Fake links target gamers and kids",
@@ -12,44 +12,44 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-02T18:40:07.353209+00:00",
-      "url": "hxxps[://]www[.]roblox[.]ly/communities/910424662/DolllieRBLX"
+      "time": "2026-11-03T01:22:25.208414+00:00",
+      "url": "hxxps[://]www[.]roblox[.]com[.]et/users/7280036217/profile"
     },
     {
-      "id": "world-banka-20261102",
+      "id": "world-banka-20261103",
       "title": "Novi phishing za banke i plaćanje",
-      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 8)",
+      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 2)",
       "title_en": "New phishing for banks and payments",
-      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 8)",
+      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 2)",
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-02T18:40:07.353209+00:00",
-      "url": "hxxps[://]www[.]securetransfer-x9hs6dlg4jzk[.]duckdns[.]org/scotia/index[.]php?ref=CAHsqZoFj"
+      "time": "2026-11-03T01:22:25.208414+00:00",
+      "url": "hxxps[://]webdisk[.]50-6-192-75[.]cprapid[.]com/secure-3/loginbaru?auth_max_open=0&ref=eUhXBjycDM1s67pE6n3psz9ItrLhzrhGHrZk31DHXm9TcA4joCkaVWwE0ZgIukfum1P6QF4jM0fCL4IDmksywJUY4upwdVolqVVF"
     },
     {
-      "id": "world-dostava-20261102",
+      "id": "world-dostava-20261103",
       "title": "Lažna obavještenja o paketu i carini",
-      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 6)",
+      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 5)",
       "title_en": "Fake parcel and customs notices",
-      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 6)",
+      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 5)",
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-02T18:40:07.353209+00:00",
-      "url": "hxxps[://]mydpd[.]yfuma[.]xyz/track-ch"
+      "time": "2026-11-03T01:22:25.208414+00:00",
+      "url": "hxxps[://]mydpd[.]xbdcn[.]cc/track-ch"
     },
     {
-      "id": "world-kripto-20261102",
+      "id": "world-kripto-20261103",
       "title": "Lažni kripto alati i novčanici",
-      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 5)",
+      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 4)",
       "title_en": "Fake crypto tools and wallets",
-      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 5)",
+      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 4)",
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-02T18:40:07.353209+00:00",
-      "url": "hxxp[://]trustledgeraml[.]vercel[.]app/"
+      "time": "2026-11-03T01:22:25.208414+00:00",
+      "url": "hxxp[://]app[.]shopledgerapp[.]com/"
     }
   ]
 }
