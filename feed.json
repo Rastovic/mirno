@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T01:24:29.792992+00:00",
+  "updated": "2026-11-03T08:04:06.452998+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-03T01:22:25.208414+00:00",
+      "time": "2026-11-03T08:02:53.878273+00:00",
       "url": "hxxps[://]www[.]roblox[.]com[.]et/users/7280036217/profile"
     },
     {
@@ -24,7 +24,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-03T01:22:25.208414+00:00",
+      "time": "2026-11-03T08:02:53.878273+00:00",
       "url": "hxxps[://]webdisk[.]50-6-192-75[.]cprapid[.]com/secure-3/loginbaru?auth_max_open=0&ref=eUhXBjycDM1s67pE6n3psz9ItrLhzrhGHrZk31DHXm9TcA4joCkaVWwE0ZgIukfum1P6QF4jM0fCL4IDmksywJUY4upwdVolqVVF"
     },
     {
@@ -36,7 +36,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-03T01:22:25.208414+00:00",
+      "time": "2026-11-03T08:02:53.878273+00:00",
       "url": "hxxps[://]mydpd[.]xbdcn[.]cc/track-ch"
     },
     {
@@ -48,7 +48,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-03T01:22:25.208414+00:00",
+      "time": "2026-11-03T08:02:53.878273+00:00",
       "url": "hxxp[://]app[.]shopledgerapp[.]com/"
     }
   ]
