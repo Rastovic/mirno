@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T01:45:24.613138+00:00",
+  "updated": "2026-11-04T08:12:22.654795+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-04T01:44:32.529575+00:00",
+      "time": "2026-11-04T08:11:16.393157+00:00",
       "url": "hxxp[://]roblox[.]com[.]ss/communities/838487772/SHOTERKETU-GIVEAWAYS"
     },
     {
@@ -24,7 +24,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-04T01:44:32.529575+00:00",
+      "time": "2026-11-04T08:11:16.393157+00:00",
       "url": "hxxps[://]www[.]interbank[.]correctcertificate[.]com/"
     },
     {
@@ -36,7 +36,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-04T01:44:32.529575+00:00",
+      "time": "2026-11-04T08:11:16.393157+00:00",
       "url": "hxxps[://]mydpd[.]ltwgq[.]top/track-ch"
     },
     {
@@ -48,7 +48,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-04T01:44:32.529575+00:00",
+      "time": "2026-11-04T08:11:16.393157+00:00",
       "url": "hxxps[://]digitalinv[.]aeronationaviation[.]com/method1/email[.]html"
     }
   ]
