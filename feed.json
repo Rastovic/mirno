@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-03T21:54:04.626715+00:00",
+  "updated": "2026-11-04T01:45:24.613138+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
     {
-      "id": "world-djeca-20261103",
+      "id": "world-djeca-20261104",
       "title": "Lažni linkovi ciljaju gejmere i djecu",
-      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 20)",
+      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 13)",
       "title_en": "Fake links target gamers and kids",
-      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 20)",
+      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 13)",
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-03T21:52:33.966639+00:00",
-      "url": "hxxp[://]roblox[.]com[.]et/users/727220164/profile"
+      "time": "2026-11-04T01:44:32.529575+00:00",
+      "url": "hxxp[://]roblox[.]com[.]ss/communities/838487772/SHOTERKETU-GIVEAWAYS"
     },
     {
-      "id": "world-banka-20261103",
+      "id": "world-banka-20261104",
       "title": "Novi phishing za banke i plaćanje",
-      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 6)",
+      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 1)",
       "title_en": "New phishing for banks and payments",
-      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 6)",
+      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 1)",
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-03T21:52:33.966639+00:00",
-      "url": "hxxps[://]ricardo-ch[.]click/uhy"
+      "time": "2026-11-04T01:44:32.529575+00:00",
+      "url": "hxxps[://]www[.]interbank[.]correctcertificate[.]com/"
     },
     {
-      "id": "world-dostava-20261103",
+      "id": "world-dostava-20261104",
       "title": "Lažna obavještenja o paketu i carini",
-      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 7)",
+      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 2)",
       "title_en": "Fake parcel and customs notices",
-      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 7)",
+      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 2)",
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-03T21:52:33.966639+00:00",
-      "url": "hxxps[://]mydpd[.]ftzgv[.]cc/track-ch"
+      "time": "2026-11-04T01:44:32.529575+00:00",
+      "url": "hxxps[://]mydpd[.]ltwgq[.]top/track-ch"
     },
     {
-      "id": "world-kripto-20261103",
+      "id": "world-kripto-20261104",
       "title": "Lažni kripto alati i novčanici",
-      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 8)",
+      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 6)",
       "title_en": "Fake crypto tools and wallets",
-      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 8)",
+      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 6)",
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-03T21:52:33.966639+00:00",
-      "url": "hxxp[://]methodical-labeling-017677[.]framer[.]app/"
+      "time": "2026-11-04T01:44:32.529575+00:00",
+      "url": "hxxps[://]digitalinv[.]aeronationaviation[.]com/method1/email[.]html"
     }
   ]
 }
