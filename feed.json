@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-05T09:59:10.642105+00:00",
+  "updated": "2026-11-05T17:50:40.102554+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
     {
       "id": "world-djeca-20261105",
       "title": "Lažni linkovi ciljaju gejmere i djecu",
-      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 28)",
+      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 17)",
       "title_en": "Fake links target gamers and kids",
-      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 28)",
+      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 17)",
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-05T09:57:27.706108+00:00",
-      "url": "hxxps[://]s4w[.]in/roblox-com-games-8304191830privateServerLinkCode=15920080078090842123854321699"
+      "time": "2026-11-05T17:48:17.889151+00:00",
+      "url": "hxxp[://]roblox[.]ss/communities/2437546919/CaramelPanda420"
     },
     {
       "id": "world-banka-20261105",
@@ -24,32 +24,32 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-05T09:57:27.706108+00:00",
-      "url": "hxxps[://]www[.]securevalveengine[.]com/help/id/76561198327891553"
+      "time": "2026-11-05T17:48:17.889151+00:00",
+      "url": "hxxps[://]www[.]paypall-login[.]blogspot[.]com/"
     },
     {
       "id": "world-dostava-20261105",
       "title": "Lažna obavještenja o paketu i carini",
-      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 20)",
+      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 7)",
       "title_en": "Fake parcel and customs notices",
-      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 20)",
+      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 7)",
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-05T09:57:27.706108+00:00",
-      "url": "hxxps[://]www[.]proposta-cartaoblack[.]com/"
+      "time": "2026-11-05T17:48:17.889151+00:00",
+      "url": "hxxps[://]mydpd[.]xzphm[.]top/track-ch"
     },
     {
       "id": "world-kripto-20261105",
       "title": "Lažni kripto alati i novčanici",
-      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 1)",
+      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 8)",
       "title_en": "Fake crypto tools and wallets",
-      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 1)",
+      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 8)",
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-05T09:57:27.706108+00:00",
-      "url": "hxxps[://]www[.]metamask-sdk-examples[.]vercel[.]app/"
+      "time": "2026-11-05T17:48:17.889151+00:00",
+      "url": "hxxp[://]www[.]metamaskchromeextensionn[.]blogspot[.]com/"
     }
   ]
 }
