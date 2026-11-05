@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-04T22:01:52.097157+00:00",
+  "updated": "2026-11-05T02:37:54.342423+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
     {
-      "id": "world-djeca-20261104",
+      "id": "world-djeca-20261105",
       "title": "Lažni linkovi ciljaju gejmere i djecu",
-      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 23)",
+      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 28)",
       "title_en": "Fake links target gamers and kids",
-      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 23)",
+      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 28)",
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-04T22:00:45.294673+00:00",
-      "url": "hxxps[://]www[.]roblox[.]com[.]ss/communities/3537850946/Roblox-PLUS-EVENT"
+      "time": "2026-11-05T02:37:05.405681+00:00",
+      "url": "hxxps[://]s4w[.]in/roblox-com-games-8304191830privateServerLinkCode=15920080078090842123854321699"
     },
     {
-      "id": "world-banka-20261104",
+      "id": "world-banka-20261105",
       "title": "Novi phishing za banke i plaćanje",
-      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 4)",
+      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 6)",
       "title_en": "New phishing for banks and payments",
-      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 4)",
+      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 6)",
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-04T22:00:45.294673+00:00",
-      "url": "hxxp[://]www[.]paypal-signin[.]blogspot[.]com/"
+      "time": "2026-11-05T02:37:05.405681+00:00",
+      "url": "hxxps[://]www[.]securevalveengine[.]com/help/id/76561198327891553"
     },
     {
-      "id": "world-dostava-20261104",
+      "id": "world-dostava-20261105",
       "title": "Lažna obavještenja o paketu i carini",
-      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 12)",
+      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 20)",
       "title_en": "Fake parcel and customs notices",
-      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 12)",
+      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 20)",
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-04T22:00:45.294673+00:00",
-      "url": "hxxps[://]mydpd[.]yhtho[.]top/track-ch/#%252Findex"
+      "time": "2026-11-05T02:37:05.405681+00:00",
+      "url": "hxxps[://]www[.]proposta-cartaoblack[.]com/"
     },
     {
-      "id": "world-kripto-20261104",
+      "id": "world-kripto-20261105",
       "title": "Lažni kripto alati i novčanici",
-      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 6)",
+      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 1)",
       "title_en": "Fake crypto tools and wallets",
-      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 6)",
+      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 1)",
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-04T22:00:45.294673+00:00",
-      "url": "hxxps[://]cryptocurrency[.]worldwidepage[.]org/"
+      "time": "2026-11-05T02:37:05.405681+00:00",
+      "url": "hxxps[://]www[.]metamask-sdk-examples[.]vercel[.]app/"
     }
   ]
 }
