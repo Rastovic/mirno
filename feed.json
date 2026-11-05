@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T02:37:54.342423+00:00",
+  "updated": "2026-11-05T09:59:10.642105+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-05T02:37:05.405681+00:00",
+      "time": "2026-11-05T09:57:27.706108+00:00",
       "url": "hxxps[://]s4w[.]in/roblox-com-games-8304191830privateServerLinkCode=15920080078090842123854321699"
     },
     {
@@ -24,7 +24,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-05T02:37:05.405681+00:00",
+      "time": "2026-11-05T09:57:27.706108+00:00",
       "url": "hxxps[://]www[.]securevalveengine[.]com/help/id/76561198327891553"
     },
     {
@@ -36,7 +36,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-05T02:37:05.405681+00:00",
+      "time": "2026-11-05T09:57:27.706108+00:00",
       "url": "hxxps[://]www[.]proposta-cartaoblack[.]com/"
     },
     {
@@ -48,7 +48,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-05T02:37:05.405681+00:00",
+      "time": "2026-11-05T09:57:27.706108+00:00",
       "url": "hxxps[://]www[.]metamask-sdk-examples[.]vercel[.]app/"
     }
   ]
