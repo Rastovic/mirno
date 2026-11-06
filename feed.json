@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-05T22:57:54.963574+00:00",
+  "updated": "2026-11-06T03:04:55.350783+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
     {
-      "id": "world-djeca-20261105",
+      "id": "world-djeca-20261106",
       "title": "Lažni linkovi ciljaju gejmere i djecu",
       "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 17)",
       "title_en": "Fake links target gamers and kids",
@@ -12,44 +12,44 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-05T22:57:05.457513+00:00",
-      "url": "hxxp[://]roblox[.]ss/communities/2437546919/CaramelPanda420"
+      "time": "2026-11-06T02:59:54.786152+00:00",
+      "url": "hxxps[://]www[.]roblox[.]com[.]gr/games/8737602449/PLS-DONATE-?privateServerLinkCode=60869683094735370675006673192210"
     },
     {
-      "id": "world-banka-20261105",
+      "id": "world-banka-20261106",
       "title": "Novi phishing za banke i plaćanje",
-      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 6)",
+      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 5)",
       "title_en": "New phishing for banks and payments",
-      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 6)",
+      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 5)",
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-05T22:57:05.457513+00:00",
-      "url": "hxxps[://]www[.]paypall-login[.]blogspot[.]com/"
+      "time": "2026-11-06T02:59:54.786152+00:00",
+      "url": "hxxps[://]reserve[.]pymnt[.]service[.]0auth2[.]50-6-192-75[.]cpanel[.]site/secure-3/loginbaru?auth_max_open=0&ref=fOmRwsuJdq6azY7pLhVvw1r5N5WKZPth5IK7LrN7tcO8rYXf3GZUm20a9R03APp1tbIc2LN6PiWdWn3pbrZ0qXuvWGkf6KjyD3OH"
     },
     {
-      "id": "world-dostava-20261105",
+      "id": "world-dostava-20261106",
       "title": "Lažna obavještenja o paketu i carini",
-      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 7)",
+      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 19)",
       "title_en": "Fake parcel and customs notices",
-      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 7)",
+      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 19)",
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-05T22:57:05.457513+00:00",
-      "url": "hxxps[://]mydpd[.]xzphm[.]top/track-ch"
+      "time": "2026-11-06T02:59:54.786152+00:00",
+      "url": "hxxp[://]www[.]dhl-login-details[.]vercel[.]app/"
     },
     {
-      "id": "world-kripto-20261105",
+      "id": "world-kripto-20261106",
       "title": "Lažni kripto alati i novčanici",
-      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 8)",
+      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 22)",
       "title_en": "Fake crypto tools and wallets",
-      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 8)",
+      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 22)",
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-05T22:57:05.457513+00:00",
-      "url": "hxxp[://]www[.]metamaskchromeextensionn[.]blogspot[.]com/"
+      "time": "2026-11-06T02:59:54.786152+00:00",
+      "url": "hxxps[://]394834binance[.]com/icloud/signin?client_id=5d914e33-bf66-4f0e-b"
     }
   ]
 }
