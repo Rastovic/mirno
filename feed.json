@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T03:04:55.350783+00:00",
+  "updated": "2026-11-06T10:27:53.022049+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-06T02:59:54.786152+00:00",
+      "time": "2026-11-06T10:26:45.693739+00:00",
       "url": "hxxps[://]www[.]roblox[.]com[.]gr/games/8737602449/PLS-DONATE-?privateServerLinkCode=60869683094735370675006673192210"
     },
     {
@@ -24,7 +24,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-06T02:59:54.786152+00:00",
+      "time": "2026-11-06T10:26:45.693739+00:00",
       "url": "hxxps[://]reserve[.]pymnt[.]service[.]0auth2[.]50-6-192-75[.]cpanel[.]site/secure-3/loginbaru?auth_max_open=0&ref=fOmRwsuJdq6azY7pLhVvw1r5N5WKZPth5IK7LrN7tcO8rYXf3GZUm20a9R03APp1tbIc2LN6PiWdWn3pbrZ0qXuvWGkf6KjyD3OH"
     },
     {
@@ -36,7 +36,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-06T02:59:54.786152+00:00",
+      "time": "2026-11-06T10:26:45.693739+00:00",
       "url": "hxxp[://]www[.]dhl-login-details[.]vercel[.]app/"
     },
     {
@@ -48,7 +48,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-06T02:59:54.786152+00:00",
+      "time": "2026-11-06T10:26:45.693739+00:00",
       "url": "hxxps[://]394834binance[.]com/icloud/signin?client_id=5d914e33-bf66-4f0e-b"
     }
   ]
