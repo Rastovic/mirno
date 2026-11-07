@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T02:08:51.372195+00:00",
+  "updated": "2026-11-07T08:59:08.919840+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-07T02:07:47.069328+00:00",
+      "time": "2026-11-07T08:57:55.711183+00:00",
       "url": "hxxps[://]www[.]roblox[.]com[.]ml/users/206830307895/profile"
     },
     {
@@ -24,7 +24,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-07T02:07:47.069328+00:00",
+      "time": "2026-11-07T08:57:55.711183+00:00",
       "url": "hxxps[://]bankofamericaverify[.]pagekite[.]me/wells/?v=2"
     },
     {
@@ -36,7 +36,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-07T02:07:47.069328+00:00",
+      "time": "2026-11-07T08:57:55.711183+00:00",
       "url": "hxxp[://]track-dhl[.]pay-mx[.]com/"
     },
     {
@@ -48,7 +48,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-07T02:07:47.069328+00:00",
+      "time": "2026-11-07T08:57:55.711183+00:00",
       "url": "hxxp[://]hometown-herbal-ledger-13[.]pages[.]dev/"
     }
   ]
