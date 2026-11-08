@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T19:49:26.671848+00:00",
+  "updated": "2026-11-08T23:16:15.156627+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-08T19:48:17.957804+00:00",
+      "time": "2026-11-08T23:14:06.994640+00:00",
       "url": "hxxps[://]www[.]roblox[.]com[.]ml/users/390783638810/profile"
     },
     {
@@ -24,7 +24,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-08T19:48:17.957804+00:00",
+      "time": "2026-11-08T23:14:06.994640+00:00",
       "url": "hxxp[://]apple-ghy[.]xyz/apple-jp-card/jp/login[.]html"
     },
     {
@@ -36,7 +36,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-08T19:48:17.957804+00:00",
+      "time": "2026-11-08T23:14:06.994640+00:00",
       "url": "hxxps[://]parcelagent[.]xyz/login"
     },
     {
@@ -48,7 +48,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-08T19:48:17.957804+00:00",
+      "time": "2026-11-08T23:14:06.994640+00:00",
       "url": "hxxp[://]ledger-budget-app[.]pages[.]dev/"
     }
   ]
