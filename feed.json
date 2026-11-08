@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T01:56:22.269734+00:00",
+  "updated": "2026-11-08T08:09:48.443522+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-08T01:54:52.902773+00:00",
+      "time": "2026-11-08T08:08:32.007533+00:00",
       "url": "hxxps[://]www[.]roblox[.]com[.]ss/users/5757654538/profile"
     },
     {
@@ -24,7 +24,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-08T01:54:52.902773+00:00",
+      "time": "2026-11-08T08:08:32.007533+00:00",
       "url": "hxxps[://]icloud-jp8[.]xyz/apple-jp-card/jp/login[.]html"
     },
     {
@@ -36,7 +36,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-08T01:54:52.902773+00:00",
+      "time": "2026-11-08T08:08:32.007533+00:00",
       "url": "hxxps[://]image-upscaling[.]net/%7Cpid:2068"
     },
     {
@@ -48,7 +48,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-08T01:54:52.902773+00:00",
+      "time": "2026-11-08T08:08:32.007533+00:00",
       "url": "hxxps[://]eng-coinsquare[.]apper[.]so/"
     }
   ]
