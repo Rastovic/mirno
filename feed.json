@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-09T10:30:41.430905+00:00",
+  "updated": "2026-11-09T20:58:38.108623+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
     {
       "id": "world-djeca-20261109",
       "title": "Lažni linkovi ciljaju gejmere i djecu",
-      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 44)",
+      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 39)",
       "title_en": "Fake links target gamers and kids",
-      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 44)",
+      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 39)",
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-09T10:29:29.250785+00:00",
-      "url": "hxxps[://]hkdiscord[.]antsoon[.]com/blog/iwd-2023-two-women-owned-servers"
+      "time": "2026-11-09T20:57:02.296362+00:00",
+      "url": "hxxps[://]hkdiscord[.]antsoon[.]com/category/engineering"
     },
     {
       "id": "world-banka-20261109",
       "title": "Novi phishing za banke i plaćanje",
-      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 1)",
+      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 2)",
       "title_en": "New phishing for banks and payments",
-      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 1)",
+      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 2)",
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-09T10:29:29.250785+00:00",
-      "url": "hxxps[://]sendungsauskunftdpd[.]click/ch?mra=v70YQc#/card"
+      "time": "2026-11-09T20:57:02.296362+00:00",
+      "url": "hxxps[://]taskboard-kryvalora-a2cc[.]s2499617[.]workers[.]dev/Secure_Access_Center/"
     },
     {
       "id": "world-dostava-20261109",
       "title": "Lažna obavještenja o paketu i carini",
-      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 3)",
+      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 2)",
       "title_en": "Fake parcel and customs notices",
-      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 3)",
+      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 2)",
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-09T10:29:29.250785+00:00",
-      "url": "hxxps[://]www[.]ups-zeta[.]vercel[.]app/"
+      "time": "2026-11-09T20:57:02.296362+00:00",
+      "url": "hxxps[://]mydpd[.]lptuq[.]cc/track-ch"
     },
     {
       "id": "world-kripto-20261109",
       "title": "Lažni kripto alati i novčanici",
-      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 12)",
+      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 5)",
       "title_en": "Fake crypto tools and wallets",
-      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 12)",
+      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 5)",
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-09T10:29:29.250785+00:00",
-      "url": "hxxps[://]metamask-docs-ctqr7yuof-consensys-ddffed67[.]vercel[.]app/"
+      "time": "2026-11-09T20:57:02.296362+00:00",
+      "url": "hxxp[://]securitydomain-pa[.]binanceapi[.]bet/"
     }
   ]
 }
