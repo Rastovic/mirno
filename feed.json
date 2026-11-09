@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T02:47:51.519262+00:00",
+  "updated": "2026-11-09T10:30:41.430905+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-09T02:46:33.032046+00:00",
+      "time": "2026-11-09T10:29:29.250785+00:00",
       "url": "hxxps[://]hkdiscord[.]antsoon[.]com/blog/iwd-2023-two-women-owned-servers"
     },
     {
@@ -24,7 +24,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-09T02:46:33.032046+00:00",
+      "time": "2026-11-09T10:29:29.250785+00:00",
       "url": "hxxps[://]sendungsauskunftdpd[.]click/ch?mra=v70YQc#/card"
     },
     {
@@ -36,7 +36,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-09T02:46:33.032046+00:00",
+      "time": "2026-11-09T10:29:29.250785+00:00",
       "url": "hxxps[://]www[.]ups-zeta[.]vercel[.]app/"
     },
     {
@@ -48,7 +48,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-09T02:46:33.032046+00:00",
+      "time": "2026-11-09T10:29:29.250785+00:00",
       "url": "hxxps[://]metamask-docs-ctqr7yuof-consensys-ddffed67[.]vercel[.]app/"
     }
   ]
