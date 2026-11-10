@@ -1,31 +1,31 @@
 {
-  "updated": "2026-11-10T11:29:14.421357+00:00",
+  "updated": "2026-11-10T18:46:10.640042+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
     {
       "id": "world-djeca-20261110",
       "title": "Lažni linkovi ciljaju gejmere i djecu",
-      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 26)",
+      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 50)",
       "title_en": "Fake links target gamers and kids",
-      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 26)",
+      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 50)",
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-10T11:27:08.381482+00:00",
-      "url": "hxxps[://]https--www--roblox[.]com/users/957484851/profile"
+      "time": "2026-11-10T18:44:23.660026+00:00",
+      "url": "hxxps[://]roblox[.]rw/users/149150538518313/profile"
     },
     {
       "id": "world-banka-20261110",
       "title": "Novi phishing za banke i plaćanje",
-      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 6)",
+      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 5)",
       "title_en": "New phishing for banks and payments",
-      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 6)",
+      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 5)",
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-10T11:27:08.381482+00:00",
-      "url": "hxxps[://]bank-of-america[.]ai[.]studio/en/saving-budgeting/"
+      "time": "2026-11-10T18:44:23.660026+00:00",
+      "url": "hxxps[://]e5149041[.]secure-oauth[.]com/?d=f9hFwjWRgbvR4JeBIS7NC"
     },
     {
       "id": "world-dostava-20261110",
@@ -36,20 +36,20 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-10T11:27:08.381482+00:00",
-      "url": "hxxps[://]d33wubrfki0l68[.]cloudfront[.]net/085027dc-0b15-49e4-ab52-2bdc1cbaba51/dhl[.]html#mirio1@51715cf3060a83632bf7aeaab680f2742f00[.]net"
+      "time": "2026-11-10T18:44:23.660026+00:00",
+      "url": "hxxps[://]mydpd[.]humxp[.]cc/track-ch"
     },
     {
       "id": "world-kripto-20261110",
       "title": "Lažni kripto alati i novčanici",
-      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 19)",
+      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 27)",
       "title_en": "Fake crypto tools and wallets",
-      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 19)",
+      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 27)",
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-10T11:27:08.381482+00:00",
-      "url": "hxxps[://]btctrz[.]com/"
+      "time": "2026-11-10T18:44:23.660026+00:00",
+      "url": "hxxps[://]coinbaseplogininin[.]gitbook[.]io/us"
     }
   ]
 }
