@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T03:06:38.996272+00:00",
+  "updated": "2026-11-10T11:29:14.421357+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-10T03:05:18.054589+00:00",
+      "time": "2026-11-10T11:27:08.381482+00:00",
       "url": "hxxps[://]https--www--roblox[.]com/users/957484851/profile"
     },
     {
@@ -24,7 +24,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-10T03:05:18.054589+00:00",
+      "time": "2026-11-10T11:27:08.381482+00:00",
       "url": "hxxps[://]bank-of-america[.]ai[.]studio/en/saving-budgeting/"
     },
     {
@@ -36,7 +36,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-10T03:05:18.054589+00:00",
+      "time": "2026-11-10T11:27:08.381482+00:00",
       "url": "hxxps[://]d33wubrfki0l68[.]cloudfront[.]net/085027dc-0b15-49e4-ab52-2bdc1cbaba51/dhl[.]html#mirio1@51715cf3060a83632bf7aeaab680f2742f00[.]net"
     },
     {
@@ -48,7 +48,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-10T03:05:18.054589+00:00",
+      "time": "2026-11-10T11:27:08.381482+00:00",
       "url": "hxxps[://]btctrz[.]com/"
     }
   ]
