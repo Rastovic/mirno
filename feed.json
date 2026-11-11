@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T03:21:39.808040+00:00",
+  "updated": "2026-11-11T11:20:23.239488+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-11T03:19:32.999206+00:00",
+      "time": "2026-11-11T11:15:22.750450+00:00",
       "url": "hxxps[://]www[.]roblox[.]com[.]et/users/9501717396/profile"
     },
     {
@@ -24,7 +24,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-11T03:19:32.999206+00:00",
+      "time": "2026-11-11T11:15:22.750450+00:00",
       "url": "hxxps[://]csmgroup[.]blu-foods[.]com/login?method=signin&mode=secure&client_id=db30ed6-53592-41922-0d22-aaab5901c&privacy=on&sso_reload=true&redirect_urI=https%3A%2F%2Flogin[.]microsoftonline[.]com%2F"
     },
     {
@@ -36,7 +36,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-11T03:19:32.999206+00:00",
+      "time": "2026-11-11T11:15:22.750450+00:00",
       "url": "hxxps[://]mydpd[.]rpvhx[.]help/track-ch"
     },
     {
@@ -48,7 +48,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-11T03:19:32.999206+00:00",
+      "time": "2026-11-11T11:15:22.750450+00:00",
       "url": "hxxp[://]trustwallet[.]com-users[.]vip/"
     }
   ]
