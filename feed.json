@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-11T18:48:21.324498+00:00",
+  "updated": "2026-11-12T01:07:17.978938+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
     {
-      "id": "world-djeca-20261111",
+      "id": "world-djeca-20261112",
       "title": "Lažni linkovi ciljaju gejmere i djecu",
       "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 17)",
       "title_en": "Fake links target gamers and kids",
@@ -12,35 +12,35 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-11T18:46:45.685369+00:00",
-      "url": "hxxps[://]hkdiscord[.]antsoon[.]com/blog/discord-patch-notes-march-6-2026"
+      "time": "2026-11-12T01:06:01.586404+00:00",
+      "url": "hxxps[://]www[.]roblox[.]rw/games/79402242188809/Baddie-Tag?privateServerLinkCode=71464085942533549942061322799449"
     },
     {
-      "id": "world-banka-20261111",
+      "id": "world-banka-20261112",
       "title": "Novi phishing za banke i plaćanje",
-      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 5)",
+      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 8)",
       "title_en": "New phishing for banks and payments",
-      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 5)",
+      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 8)",
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-11T18:46:45.685369+00:00",
-      "url": "hxxps[://]csmgroup[.]blu-foods[.]com/login?method=signin&mode=secure&client_id=db30ed6-53592-41922-0d22-aaab5901c&privacy=on&sso_reload=true&redirect_urI=https%3A%2F%2Flogin[.]microsoftonline[.]com%2F"
+      "time": "2026-11-12T01:06:01.586404+00:00",
+      "url": "hxxps[://]www[.]gpbankamc[.]com/endpoint"
     },
     {
-      "id": "world-dostava-20261111",
+      "id": "world-dostava-20261112",
       "title": "Lažna obavještenja o paketu i carini",
-      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 4)",
+      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 6)",
       "title_en": "Fake parcel and customs notices",
-      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 4)",
+      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 6)",
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-11T18:46:45.685369+00:00",
-      "url": "hxxps[://]mydpd[.]stqyi[.]cc/track-ch"
+      "time": "2026-11-12T01:06:01.586404+00:00",
+      "url": "hxxps[://]mydpd[.]ljsnk[.]help/track-ch"
     },
     {
-      "id": "world-kripto-20261111",
+      "id": "world-kripto-20261112",
       "title": "Lažni kripto alati i novčanici",
       "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 7)",
       "title_en": "Fake crypto tools and wallets",
@@ -48,8 +48,8 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-11T18:46:45.685369+00:00",
-      "url": "hxxp[://]metamask-docs-ctqr7yuof-consensys-ddffed67[.]vercel[.]app/agent-wallet/guides/swap-and-bridge/"
+      "time": "2026-11-12T01:06:01.586404+00:00",
+      "url": "hxxps[://]metamask-docs-ctqr7yuof-consensys-ddffed67[.]vercel[.]app/embedded-wallets/sdk/flutter"
     }
   ]
 }
