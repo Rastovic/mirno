@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T16:59:08.704024+00:00",
+  "updated": "2026-11-12T22:32:57.544079+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-12T16:57:39.356723+00:00",
+      "time": "2026-11-12T22:31:50.868718+00:00",
       "url": "hxxps[://]www[.]roblox[.]ly/users/6287860234/profile"
     },
     {
@@ -24,7 +24,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-12T16:57:39.356723+00:00",
+      "time": "2026-11-12T22:31:50.868718+00:00",
       "url": "hxxp[://]beefmaster-germany[.]com/bank/citi/login"
     },
     {
@@ -36,7 +36,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-12T16:57:39.356723+00:00",
+      "time": "2026-11-12T22:31:50.868718+00:00",
       "url": "hxxp[://]dhlsd[.]operations[.]staging[.]transporeon[.]com/"
     },
     {
@@ -48,7 +48,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-12T16:57:39.356723+00:00",
+      "time": "2026-11-12T22:31:50.868718+00:00",
       "url": "hxxps[://]kucoinapp[.]pages[.]dev/index[.]html/"
     }
   ]
