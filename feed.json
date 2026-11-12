@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T01:07:17.978938+00:00",
+  "updated": "2026-11-12T08:29:17.355761+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-12T01:06:01.586404+00:00",
+      "time": "2026-11-12T08:28:28.409538+00:00",
       "url": "hxxps[://]www[.]roblox[.]rw/games/79402242188809/Baddie-Tag?privateServerLinkCode=71464085942533549942061322799449"
     },
     {
@@ -24,7 +24,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-12T01:06:01.586404+00:00",
+      "time": "2026-11-12T08:28:28.409538+00:00",
       "url": "hxxps[://]www[.]gpbankamc[.]com/endpoint"
     },
     {
@@ -36,7 +36,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-12T01:06:01.586404+00:00",
+      "time": "2026-11-12T08:28:28.409538+00:00",
       "url": "hxxps[://]mydpd[.]ljsnk[.]help/track-ch"
     },
     {
@@ -48,7 +48,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-12T01:06:01.586404+00:00",
+      "time": "2026-11-12T08:28:28.409538+00:00",
       "url": "hxxps[://]metamask-docs-ctqr7yuof-consensys-ddffed67[.]vercel[.]app/embedded-wallets/sdk/flutter"
     }
   ]
