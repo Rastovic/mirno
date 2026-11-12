@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-12T08:29:17.355761+00:00",
+  "updated": "2026-11-12T16:59:08.704024+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
     {
       "id": "world-djeca-20261112",
       "title": "Lažni linkovi ciljaju gejmere i djecu",
-      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 17)",
+      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 12)",
       "title_en": "Fake links target gamers and kids",
-      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 17)",
+      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 12)",
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-12T08:28:28.409538+00:00",
-      "url": "hxxps[://]www[.]roblox[.]rw/games/79402242188809/Baddie-Tag?privateServerLinkCode=71464085942533549942061322799449"
+      "time": "2026-11-12T16:57:39.356723+00:00",
+      "url": "hxxps[://]www[.]roblox[.]ly/users/6287860234/profile"
     },
     {
       "id": "world-banka-20261112",
       "title": "Novi phishing za banke i plaćanje",
-      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 8)",
+      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 5)",
       "title_en": "New phishing for banks and payments",
-      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 8)",
+      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 5)",
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-12T08:28:28.409538+00:00",
-      "url": "hxxps[://]www[.]gpbankamc[.]com/endpoint"
+      "time": "2026-11-12T16:57:39.356723+00:00",
+      "url": "hxxp[://]beefmaster-germany[.]com/bank/citi/login"
     },
     {
       "id": "world-dostava-20261112",
       "title": "Lažna obavještenja o paketu i carini",
-      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 6)",
+      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 3)",
       "title_en": "Fake parcel and customs notices",
-      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 6)",
+      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 3)",
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-12T08:28:28.409538+00:00",
-      "url": "hxxps[://]mydpd[.]ljsnk[.]help/track-ch"
+      "time": "2026-11-12T16:57:39.356723+00:00",
+      "url": "hxxp[://]dhlsd[.]operations[.]staging[.]transporeon[.]com/"
     },
     {
       "id": "world-kripto-20261112",
       "title": "Lažni kripto alati i novčanici",
-      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 7)",
+      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 6)",
       "title_en": "Fake crypto tools and wallets",
-      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 7)",
+      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 6)",
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-12T08:28:28.409538+00:00",
-      "url": "hxxps[://]metamask-docs-ctqr7yuof-consensys-ddffed67[.]vercel[.]app/embedded-wallets/sdk/flutter"
+      "time": "2026-11-12T16:57:39.356723+00:00",
+      "url": "hxxps[://]kucoinapp[.]pages[.]dev/index[.]html/"
     }
   ]
 }
