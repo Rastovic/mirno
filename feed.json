@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T18:13:25.948103+00:00",
+  "updated": "2026-11-13T23:45:36.464977+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-13T18:11:53.454296+00:00",
+      "time": "2026-11-13T23:43:54.484199+00:00",
       "url": "hxxps[://]www[.]roblox[.]com[.]ss/users/5538877950/profile"
     },
     {
@@ -24,7 +24,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-13T18:11:53.454296+00:00",
+      "time": "2026-11-13T23:43:54.484199+00:00",
       "url": "hxxps[://]webproxy[.]goku8[.]workers[.]dev/hxxp[://]www[.]wellsfargo[.]com/debit-card/"
     },
     {
@@ -36,7 +36,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-13T18:11:53.454296+00:00",
+      "time": "2026-11-13T23:43:54.484199+00:00",
       "url": "hxxps[://]mydpd[.]tcrrn[.]help/track-ch"
     },
     {
@@ -48,7 +48,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-13T18:11:53.454296+00:00",
+      "time": "2026-11-13T23:43:54.484199+00:00",
       "url": "hxxp[://]binance-marketstore[.]github[.]io/"
     }
   ]
