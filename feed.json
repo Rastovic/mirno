@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-13T10:33:24.297692+00:00",
+  "updated": "2026-11-13T18:13:25.948103+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
     {
       "id": "world-djeca-20261113",
       "title": "Lažni linkovi ciljaju gejmere i djecu",
-      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 12)",
+      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 6)",
       "title_en": "Fake links target gamers and kids",
-      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 12)",
+      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 6)",
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-13T10:31:54.114672+00:00",
-      "url": "hxxps[://]https-wvvw--roblox[.]co/users/368542007/profile"
+      "time": "2026-11-13T18:11:53.454296+00:00",
+      "url": "hxxps[://]www[.]roblox[.]com[.]ss/users/5538877950/profile"
     },
     {
       "id": "world-banka-20261113",
       "title": "Novi phishing za banke i plaćanje",
-      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 7)",
+      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 4)",
       "title_en": "New phishing for banks and payments",
-      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 7)",
+      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 4)",
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-13T10:31:54.114672+00:00",
-      "url": "hxxps[://]amazon-gb-01-iont[.]std[.]epremo-akam[.]com/help/banking-made-easy/"
+      "time": "2026-11-13T18:11:53.454296+00:00",
+      "url": "hxxps[://]webproxy[.]goku8[.]workers[.]dev/hxxp[://]www[.]wellsfargo[.]com/debit-card/"
     },
     {
       "id": "world-dostava-20261113",
       "title": "Lažna obavještenja o paketu i carini",
-      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 5)",
+      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 4)",
       "title_en": "Fake parcel and customs notices",
-      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 5)",
+      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 4)",
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-13T10:31:54.114672+00:00",
-      "url": "hxxps[://]codedstacks[.]github[.]io/fedex-delivery-tracking/"
+      "time": "2026-11-13T18:11:53.454296+00:00",
+      "url": "hxxps[://]mydpd[.]tcrrn[.]help/track-ch"
     },
     {
       "id": "world-kripto-20261113",
       "title": "Lažni kripto alati i novčanici",
-      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 10)",
+      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 17)",
       "title_en": "Fake crypto tools and wallets",
-      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 10)",
+      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 17)",
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-13T10:31:54.114672+00:00",
-      "url": "hxxps[://]metamasksupportsos[.]github[.]io/metamask-wallet-recovery"
+      "time": "2026-11-13T18:11:53.454296+00:00",
+      "url": "hxxp[://]binance-marketstore[.]github[.]io/"
     }
   ]
 }
