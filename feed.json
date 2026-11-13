@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T03:01:27.118462+00:00",
+  "updated": "2026-11-13T10:33:24.297692+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-13T02:59:14.998804+00:00",
+      "time": "2026-11-13T10:31:54.114672+00:00",
       "url": "hxxps[://]https-wvvw--roblox[.]co/users/368542007/profile"
     },
     {
@@ -24,7 +24,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-13T02:59:14.998804+00:00",
+      "time": "2026-11-13T10:31:54.114672+00:00",
       "url": "hxxps[://]amazon-gb-01-iont[.]std[.]epremo-akam[.]com/help/banking-made-easy/"
     },
     {
@@ -36,7 +36,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-13T02:59:14.998804+00:00",
+      "time": "2026-11-13T10:31:54.114672+00:00",
       "url": "hxxps[://]codedstacks[.]github[.]io/fedex-delivery-tracking/"
     },
     {
@@ -48,7 +48,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-13T02:59:14.998804+00:00",
+      "time": "2026-11-13T10:31:54.114672+00:00",
       "url": "hxxps[://]metamasksupportsos[.]github[.]io/metamask-wallet-recovery"
     }
   ]
