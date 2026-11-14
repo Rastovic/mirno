@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T03:44:45.317399+00:00",
+  "updated": "2026-11-14T11:01:19.484422+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-14T03:43:39.325298+00:00",
+      "time": "2026-11-14T11:00:17.602496+00:00",
       "url": "hxxps[://]www[.]roblox[.]com[.]ss/games/13621938427/untitled-boxing-game?privateServerLinkCode=95388447005431092484134632311458"
     },
     {
@@ -24,7 +24,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-14T03:43:39.325298+00:00",
+      "time": "2026-11-14T11:00:17.602496+00:00",
       "url": "hxxps[://]amazon-gb-01-iont[.]std[.]epremo-akam[.]com/ways-to-bank/mobile/money-management/"
     },
     {
@@ -36,7 +36,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-14T03:43:39.325298+00:00",
+      "time": "2026-11-14T11:00:17.602496+00:00",
       "url": "hxxps[://]security-server-stat-qt6o[.]bolt[.]host/#phishing@dhl[.]com/"
     },
     {
@@ -48,7 +48,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-14T03:43:39.325298+00:00",
+      "time": "2026-11-14T11:00:17.602496+00:00",
       "url": "hxxps[://]trustwallet-recovery[.]duckdns[.]org/"
     }
   ]
