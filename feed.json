@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T17:16:24.142450+00:00",
+  "updated": "2026-11-14T21:37:22.350331+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-14T17:13:56.381074+00:00",
+      "time": "2026-11-14T21:36:25.904868+00:00",
       "url": "hxxps[://]codedetrichelattaquedeszombieroblox[.]blogspot[.]com/"
     },
     {
@@ -24,7 +24,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-14T17:13:56.381074+00:00",
+      "time": "2026-11-14T21:36:25.904868+00:00",
       "url": "hxxps[://]supercauchoabanto[.]com/96627c/RE025486658/CR/card[.]php"
     },
     {
@@ -36,7 +36,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-14T17:13:56.381074+00:00",
+      "time": "2026-11-14T21:36:25.904868+00:00",
       "url": "hxxps[://]mydpd[.]slpfr[.]help/track-ch"
     },
     {
@@ -48,7 +48,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-14T17:13:56.381074+00:00",
+      "time": "2026-11-14T21:36:25.904868+00:00",
       "url": "hxxp[://]explore-trustextension[.]apper[.]so/"
     }
   ]
