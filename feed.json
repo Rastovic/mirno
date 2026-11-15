@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T01:24:45.450307+00:00",
+  "updated": "2026-11-15T07:58:49.960319+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-15T01:23:02.954006+00:00",
+      "time": "2026-11-15T07:57:31.803532+00:00",
       "url": "hxxps[://]www[.]roblox[.]com[.]et/users/4925259156/profile"
     },
     {
@@ -24,7 +24,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-15T01:23:02.954006+00:00",
+      "time": "2026-11-15T07:57:31.803532+00:00",
       "url": "hxxps[://]reserv[.]paymnt[.]0auth[.]src[.]129-121-167-35[.]cpanel[.]site/secure-3/loginbaru?auth_max_open=0&ref=RQTpLwoVO1MsTC8mIBLs9Roe9UtyBaVIBXhuL9JoSutFG0OClwpcDBlVpqg8eL06t0umCbCi7NesQWviz3WukKxMmyLfwEqnvibf"
     },
     {
@@ -36,7 +36,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-15T01:23:02.954006+00:00",
+      "time": "2026-11-15T07:57:31.803532+00:00",
       "url": "hxxps[://]apple[.]absalomdonald[.]dpdns[.]org/"
     },
     {
@@ -48,7 +48,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-15T01:23:02.954006+00:00",
+      "time": "2026-11-15T07:57:31.803532+00:00",
       "url": "hxxps[://]m[.]coinbase-svip[.]com/h5/"
     }
   ]
