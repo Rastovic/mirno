@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T00:05:59.513789+00:00",
+  "updated": "2026-11-16T06:53:29.759362+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 3,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-16T00:05:10.519414+00:00",
+      "time": "2026-11-16T06:52:14.722003+00:00",
       "url": "hxxps[://]www[.]roblox[.]com[.]et/users/1109246452/profile"
     },
     {
@@ -24,7 +24,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-16T00:05:10.519414+00:00",
+      "time": "2026-11-16T06:52:14.722003+00:00",
       "url": "hxxp[://]secure-trezr-login-io[.]typedream[.]app/"
     },
     {
@@ -36,7 +36,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-16T00:05:10.519414+00:00",
+      "time": "2026-11-16T06:52:14.722003+00:00",
       "url": "hxxps[://]access-app-ledger-info[.]typedream[.]app/"
     }
   ]
