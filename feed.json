@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-16T16:33:19.619362+00:00",
+  "updated": "2026-11-17T00:33:35.770243+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
     {
-      "id": "world-djeca-20261116",
+      "id": "world-djeca-20261117",
       "title": "Lažni linkovi ciljaju gejmere i djecu",
-      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 4)",
+      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 16)",
       "title_en": "Fake links target gamers and kids",
-      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 4)",
+      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 16)",
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-16T16:31:44.217964+00:00",
-      "url": "hxxps[://]wvvw--roblox[.]com/games/8304191830/UPD-21-Anime-Adventures?privateServerLinkCode=01805992462090701596851287634216"
+      "time": "2026-11-17T00:32:24.163995+00:00",
+      "url": "hxxps[://]roblox[.]com[.]gr/users/757568109566/profile"
     },
     {
-      "id": "world-banka-20261116",
+      "id": "world-banka-20261117",
       "title": "Novi phishing za banke i plaćanje",
-      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 4)",
+      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 5)",
       "title_en": "New phishing for banks and payments",
-      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 4)",
+      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 5)",
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-16T16:31:44.217964+00:00",
-      "url": "hxxps[://]mtvljq73-zlkyt91w-x8n4v2-qk563[.]pages[.]dev/welcome_aboard?welcome=10001068447956100&token248=10001068447956100&name_token136=Saraswat%20Bank"
+      "time": "2026-11-17T00:32:24.163995+00:00",
+      "url": "hxxps[://]sunyimembara[.]tepaksunda[.]menjadidua[.]srcone[.]62-171-154-219[.]cpanel[.]site/secure-3/loginbaru?auth_max_open=0&ref=t2uYG6w8nFso7KVvReRIONdzmIJtA8xLnSm8GdljV15BVEKiAEJTqq72OceaQLu6cvIndJxqY4RIHZttpIMzC9TJDj5L020ErIWI"
     },
     {
-      "id": "world-dostava-20261116",
+      "id": "world-dostava-20261117",
       "title": "Lažna obavještenja o paketu i carini",
-      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 4)",
+      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 3)",
       "title_en": "Fake parcel and customs notices",
-      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 4)",
+      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 3)",
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-16T16:31:44.217964+00:00",
-      "url": "hxxps[://]mydpd[.]zwuuq[.]help/track-ch"
+      "time": "2026-11-17T00:32:24.163995+00:00",
+      "url": "hxxps[://]security-server-stat-kng4[.]bolt[.]host/#phishing-dpdhl@dhl[.]com/"
     },
     {
-      "id": "world-kripto-20261116",
+      "id": "world-kripto-20261117",
       "title": "Lažni kripto alati i novčanici",
-      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 5)",
+      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 11)",
       "title_en": "Fake crypto tools and wallets",
-      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 5)",
+      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 11)",
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-16T16:31:44.217964+00:00",
-      "url": "hxxp[://]itrustcapitl-en-us[.]apper[.]so/"
+      "time": "2026-11-17T00:32:24.163995+00:00",
+      "url": "hxxp[://]cryptocomappstillcantlogin[.]netlify[.]app/"
     }
   ]
 }
