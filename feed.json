@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T00:14:44.235436+00:00",
+  "updated": "2026-11-18T07:46:12.340180+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-18T00:13:55.023626+00:00",
+      "time": "2026-11-18T07:44:41.767899+00:00",
       "url": "hxxps[://]www[.]roblox[.]com[.]ss/users/1124519706/profile"
     },
     {
@@ -24,7 +24,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-18T00:13:55.023626+00:00",
+      "time": "2026-11-18T07:44:41.767899+00:00",
       "url": "hxxps[://]ideeca[.]com[.]mx/folder/doc/docsign-electronic/secureshare[.]html"
     },
     {
@@ -36,7 +36,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-18T00:13:55.023626+00:00",
+      "time": "2026-11-18T07:44:41.767899+00:00",
       "url": "hxxps[://]im[.]nbpublic[.]com/loading_page_cpl/amazon/amazon_cf_2/index[.]html?lptoken=170859fa7232506226c1&cep=N4Igdgpg7g+gFgSwC4wQExALhAMwKwDseOAjASQLQAcaBEFALAEYCGAzBSwGxcEVNUADHlpcmDKmwCcIADQgAbggDOyVBmwAmQdM0txjYQ0ZMR/QWhYU8XKYIDGJXhEIQ5ilWqQIAthGVILD4ADlgg2pp4FCSCFIJcACqCDJiCgpiaXAB0DASaAFruSqpIAPYATuphJFJoUnhSJJRMBPZRDJoEsVIQOJoU9rYsEI5ogySa7vZBwSwIAOZgVdhcVMMsBGg0JBCCJPZpE1wQEC"
     },
     {
@@ -48,7 +48,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-18T00:13:55.023626+00:00",
+      "time": "2026-11-18T07:44:41.767899+00:00",
       "url": "hxxps[://]trzer-wallet[.]pages[.]dev/robots[.]txt"
     }
   ]
