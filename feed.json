@@ -1,55 +1,43 @@
 {
-  "updated": "2026-11-18T07:46:12.340180+00:00",
+  "updated": "2026-11-18T16:46:32.241500+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
-  "count": 4,
+  "count": 3,
   "cards": [
     {
       "id": "world-djeca-20261118",
       "title": "Lažni linkovi ciljaju gejmere i djecu",
-      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 19)",
+      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 9)",
       "title_en": "Fake links target gamers and kids",
-      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 19)",
+      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 9)",
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-18T07:44:41.767899+00:00",
-      "url": "hxxps[://]www[.]roblox[.]com[.]ss/users/1124519706/profile"
+      "time": "2026-11-18T16:45:30.004239+00:00",
+      "url": "hxxp[://]www[.]roblox[.]ly/users/770253869/profile"
     },
     {
       "id": "world-banka-20261118",
       "title": "Novi phishing za banke i plaćanje",
-      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 2)",
+      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 1)",
       "title_en": "New phishing for banks and payments",
-      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 2)",
+      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 1)",
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-18T07:44:41.767899+00:00",
-      "url": "hxxps[://]ideeca[.]com[.]mx/folder/doc/docsign-electronic/secureshare[.]html"
-    },
-    {
-      "id": "world-dostava-20261118",
-      "title": "Lažna obavještenja o paketu i carini",
-      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 11)",
-      "title_en": "Fake parcel and customs notices",
-      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 11)",
-      "category": "dostava",
-      "severity": "srednji",
-      "region": "world",
-      "time": "2026-11-18T07:44:41.767899+00:00",
-      "url": "hxxps[://]im[.]nbpublic[.]com/loading_page_cpl/amazon/amazon_cf_2/index[.]html?lptoken=170859fa7232506226c1&cep=N4Igdgpg7g+gFgSwC4wQExALhAMwKwDseOAjASQLQAcaBEFALAEYCGAzBSwGxcEVNUADHlpcmDKmwCcIADQgAbggDOyVBmwAmQdM0txjYQ0ZMR/QWhYU8XKYIDGJXhEIQ5ilWqQIAthGVILD4ADlgg2pp4FCSCFIJcACqCDJiCgpiaXAB0DASaAFruSqpIAPYATuphJFJoUnhSJJRMBPZRDJoEsVIQOJoU9rYsEI5ogySa7vZBwSwIAOZgVdhcVMMsBGg0JBCCJPZpE1wQEC"
+      "time": "2026-11-18T16:45:30.004239+00:00",
+      "url": "hxxp[://]app-docusign[.]docxsecure[.]workers[.]dev/"
     },
     {
       "id": "world-kripto-20261118",
       "title": "Lažni kripto alati i novčanici",
-      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 4)",
+      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 6)",
       "title_en": "Fake crypto tools and wallets",
-      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 4)",
+      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 6)",
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-18T07:44:41.767899+00:00",
-      "url": "hxxps[://]trzer-wallet[.]pages[.]dev/robots[.]txt"
+      "time": "2026-11-18T16:45:30.004239+00:00",
+      "url": "hxxp[://]booking-ledger-phi[.]vercel[.]app/"
     }
   ]
 }
