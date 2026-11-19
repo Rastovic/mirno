@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T13:37:52.376960+00:00",
+  "updated": "2026-11-19T21:53:56.982204+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-19T13:36:16.193575+00:00",
+      "time": "2026-11-19T21:52:48.644481+00:00",
       "url": "hxxps[://]roblox[.]ly/users/3670776404/profilemalwarenetworkurl/"
     },
     {
@@ -24,7 +24,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-19T13:36:16.193575+00:00",
+      "time": "2026-11-19T21:52:48.644481+00:00",
       "url": "hxxp[://]web-trezor-live-wallet-secure-cdn[.]typedream[.]app/"
     },
     {
@@ -36,7 +36,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-19T13:36:16.193575+00:00",
+      "time": "2026-11-19T21:52:48.644481+00:00",
       "url": "hxxp[://]uspsofficialdelivery[.]com/"
     },
     {
@@ -48,7 +48,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-19T13:36:16.193575+00:00",
+      "time": "2026-11-19T21:52:48.644481+00:00",
       "url": "hxxps[://]knf9704-crypto[.]github[.]io/redirect-bloxfruits"
     }
   ]
