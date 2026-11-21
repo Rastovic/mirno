@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T00:24:39.161132+00:00",
+  "updated": "2026-11-21T07:28:55.464059+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 3,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-21T00:23:48.913280+00:00",
+      "time": "2026-11-21T07:27:45.302404+00:00",
       "url": "hxxps[://]statroblox[.]com/roblox-game-stats"
     },
     {
@@ -24,7 +24,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-21T00:23:48.913280+00:00",
+      "time": "2026-11-21T07:27:45.302404+00:00",
       "url": "hxxps[://]secure-en-live-ledger-doc[.]typedream[.]app/"
     },
     {
@@ -36,7 +36,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-21T00:23:48.913280+00:00",
+      "time": "2026-11-21T07:27:45.302404+00:00",
       "url": "hxxps[://]drcoindreau[.]com[.]mx/cd&invoice"
     }
   ]
