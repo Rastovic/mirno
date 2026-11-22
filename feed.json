@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T00:56:00.057992+00:00",
+  "updated": "2026-11-22T07:34:58.147435+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 3,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-22T00:55:08.279491+00:00",
+      "time": "2026-11-22T07:34:09.261970+00:00",
       "url": "hxxps[://]www[.]roblox[.]ly/games/84833567598383/fight-on-a-baseplate?privateServerLinkCode=60606758548615559075198493138760"
     },
     {
@@ -24,7 +24,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-22T00:55:08.279491+00:00",
+      "time": "2026-11-22T07:34:09.261970+00:00",
       "url": "hxxp[://]uspsglobaldeliveryexpress[.]com/"
     },
     {
@@ -36,7 +36,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-22T00:55:08.279491+00:00",
+      "time": "2026-11-22T07:34:09.261970+00:00",
       "url": "hxxps[://]trustwallet[.]com-2fa[.]vip/"
     }
   ]
