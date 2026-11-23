@@ -1,31 +1,43 @@
 {
-  "updated": "2026-11-23T09:54:24.830823+00:00",
+  "updated": "2026-11-23T21:50:33.846240+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
-  "count": 3,
+  "count": 4,
   "cards": [
     {
       "id": "world-djeca-20261123",
       "title": "Lažni linkovi ciljaju gejmere i djecu",
-      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 25)",
+      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 11)",
       "title_en": "Fake links target gamers and kids",
-      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 25)",
+      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 11)",
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-23T09:53:35.973058+00:00",
-      "url": "hxxps[://]steamconmmunity[.]life/profile/7655462238669691"
+      "time": "2026-11-23T21:45:33.305534+00:00",
+      "url": "hxxps[://]store[.]steamcommunite[.]com/profiles/76561116233252110"
     },
     {
       "id": "world-banka-20261123",
       "title": "Novi phishing za banke i plaćanje",
-      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 2)",
+      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 1)",
       "title_en": "New phishing for banks and payments",
-      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 2)",
+      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 1)",
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-23T09:53:35.973058+00:00",
-      "url": "hxxps[://]walletconnect[.]wallet-veriffy[.]com/solutions/fintechs-and-neobanks"
+      "time": "2026-11-23T21:45:33.305534+00:00",
+      "url": "hxxps[://]sso-auth[.]com/E[.]xjXDniSJ1p63JLY?/facebook_secure_account?id=759347502378427672987349826578129038123807394%22"
+    },
+    {
+      "id": "world-dostava-20261123",
+      "title": "Lažna obavještenja o paketu i carini",
+      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 2)",
+      "title_en": "Fake parcel and customs notices",
+      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 2)",
+      "category": "dostava",
+      "severity": "srednji",
+      "region": "world",
+      "time": "2026-11-23T21:45:33.305534+00:00",
+      "url": "hxxps[://]dhl[.]webauthordev[.]com/auth[.]cfm?fs=NLI&nli=true&path=%2Fmodules%2Fportal%2Fdefault[.]cfm&sign_in=true"
     },
     {
       "id": "world-kripto-20261123",
@@ -36,8 +48,8 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-23T09:53:35.973058+00:00",
-      "url": "hxxps[://]walletconnect[.]wallet-veriffy[.]com/solutions/rwa-token-issuers"
+      "time": "2026-11-23T21:45:33.305534+00:00",
+      "url": "hxxp[://]metamask-docs-git-dependabot-npmandya-5f7441-consensys-ddffed67[.]vercel[.]app/embedded-wallets/sdk/react"
     }
   ]
 }
