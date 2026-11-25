@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-25T09:58:07.534171+00:00",
+  "updated": "2026-11-25T19:41:37.998319+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
     {
       "id": "world-djeca-20261125",
       "title": "Lažni linkovi ciljaju gejmere i djecu",
-      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 3)",
+      "body": "Kruže lažni „pokloni/free“ linkovi (Roblox, Discord...) koji kradu nalog. Reci djetetu da ne klikće. (viđeno danas: 4)",
       "title_en": "Fake links target gamers and kids",
-      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 3)",
+      "body_en": "Fake „free/gift“ links (Roblox, Discord...) steal accounts. Tell your child not to click. (seen today: 4)",
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-25T09:56:50.857154+00:00",
-      "url": "hxxps[://]www[.]roblox[.]com[.]pt/users/898385753150/profile"
+      "time": "2026-11-25T19:40:33.030443+00:00",
+      "url": "hxxps[://]www[.]roblox[.]com[.]gr/games/2753915549/-Blox-Fruits?privateServerLinkCode=67422705997789234354001104774829"
     },
     {
       "id": "world-banka-20261125",
       "title": "Novi phishing za banke i plaćanje",
-      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 3)",
+      "body": "Lažne „login/secure“ stranice kradu podatke kartice i naloga. Ne unosi ništa preko linka iz poruke. (viđeno danas: 7)",
       "title_en": "New phishing for banks and payments",
-      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 3)",
+      "body_en": "Fake „login/secure“ pages steal card and account details. Don't enter anything via a link in a message. (seen today: 7)",
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-25T09:56:50.857154+00:00",
-      "url": "hxxps[://]sso-auth[.]com/E[.]bGYjM2SvWMNs4g?/facebook_secure_account?id=759347502378427672987349826578129038123807394"
+      "time": "2026-11-25T19:40:33.030443+00:00",
+      "url": "hxxps[://]97zz1[.]clatex[.]at/cnbcard/"
     },
     {
       "id": "world-dostava-20261125",
       "title": "Lažna obavještenja o paketu i carini",
-      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 1)",
+      "body": "Poruke „platite carinu/dostavu“ vode na lažne stranice. Prava pošta ne traži plaćanje preko linka. (viđeno danas: 15)",
       "title_en": "Fake parcel and customs notices",
-      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 1)",
+      "body_en": "„Pay customs/delivery“ messages lead to fake sites. Real post never asks to pay via a link. (seen today: 15)",
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-25T09:56:50.857154+00:00",
-      "url": "hxxps[://]dhl-deliverylogistic7876[.]s3[.]us-east-2[.]amazonaws[.]com/index+(32)[.]html"
+      "time": "2026-11-25T19:40:33.030443+00:00",
+      "url": "hxxps[://]dhl-express[.]llaanidads[.]com/gb-en/home/press[.]html"
     },
     {
       "id": "world-kripto-20261125",
       "title": "Lažni kripto alati i novčanici",
-      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 6)",
+      "body": "Kruže lažni „recovery/wallet“ alati koji kradu novčanik. Nema legalnog alata za „povrat“ kripta. (viđeno danas: 5)",
       "title_en": "Fake crypto tools and wallets",
-      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 6)",
+      "body_en": "Fake „recovery/wallet“ tools steal your wallet. There is no legit tool to „recover“ crypto. (seen today: 5)",
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-25T09:56:50.857154+00:00",
-      "url": "hxxps[://]www[.]madethis[.]website/s/35ejwgy8/#tanum@f96bf19569d402cd21ad3f3e989b16c183b7[.]com"
+      "time": "2026-11-25T19:40:33.030443+00:00",
+      "url": "hxxps[://]metamaskexzxtension[.]gitbook[.]io/"
     }
   ]
 }
