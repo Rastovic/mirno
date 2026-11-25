@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T01:10:59.116156+00:00",
+  "updated": "2026-11-25T09:58:07.534171+00:00",
   "source": "abuse.ch URLhaus, OpenPhish, crt.sh (javni feedovi)",
   "count": 4,
   "cards": [
@@ -12,7 +12,7 @@
       "category": "djeca",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-25T01:08:48.364665+00:00",
+      "time": "2026-11-25T09:56:50.857154+00:00",
       "url": "hxxps[://]www[.]roblox[.]com[.]pt/users/898385753150/profile"
     },
     {
@@ -24,7 +24,7 @@
       "category": "banka",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-25T01:08:48.364665+00:00",
+      "time": "2026-11-25T09:56:50.857154+00:00",
       "url": "hxxps[://]sso-auth[.]com/E[.]bGYjM2SvWMNs4g?/facebook_secure_account?id=759347502378427672987349826578129038123807394"
     },
     {
@@ -36,7 +36,7 @@
       "category": "dostava",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-25T01:08:48.364665+00:00",
+      "time": "2026-11-25T09:56:50.857154+00:00",
       "url": "hxxps[://]dhl-deliverylogistic7876[.]s3[.]us-east-2[.]amazonaws[.]com/index+(32)[.]html"
     },
     {
@@ -48,7 +48,7 @@
       "category": "kripto",
       "severity": "srednji",
       "region": "world",
-      "time": "2026-11-25T01:08:48.364665+00:00",
+      "time": "2026-11-25T09:56:50.857154+00:00",
       "url": "hxxps[://]www[.]madethis[.]website/s/35ejwgy8/#tanum@f96bf19569d402cd21ad3f3e989b16c183b7[.]com"
     }
   ]
